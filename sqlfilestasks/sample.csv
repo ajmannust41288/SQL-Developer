@@ -1,0 +1,1001 @@
+WO,District,LeadTech,Service,Rush,ReqDate,WorkDate,Techs,WtyLbr,WtyParts, LbrHrs , PartsCost ,Payment, Wait ,LbrRate, LbrCost , LbrFee , PartsFee , TotalCost , TotalFee ,ReqDay,WorkDay
+A00100,North,Khan,Assess,,1-Sep-20,15-Sep-20,2,,,0.5,360,Account,14,#REF!,#REF!,#REF!,360,#REF!,#REF!,Tue,Tue
+A00101,South,Lopez,Replace,,1-Sep-20,4-Sep-20,1,,,0.5,90.04,Account,3,#REF!,#REF!,#REF!,90.04,#REF!,#REF!,Tue,Fri
+A00102,Central,Cartier,Deliver,,1-Sep-20,17-Sep-20,1,,,0.25,120,P.O.,16,#REF!,#REF!,#REF!,120,#REF!,#REF!,Tue,Thu
+A00103,South,Lopez,Deliver,,1-Sep-20,17-Sep-20,1,,,0.25,16.25,Account,16,#REF!,#REF!,#REF!,16.25,#REF!,#REF!,Tue,Thu
+A00104,Northwest,Cartier,Deliver,Yes,1-Sep-20,17-Sep-20,1,,,0.25,45.24,Account,16,#REF!,#REF!,#REF!,45.24,#REF!,#REF!,Tue,Thu
+A00105,South,Lopez,Assess,,1-Sep-20,15-Sep-20,1,,,0.25,97.63,Account,14,#REF!,#REF!,#REF!,97.63,#REF!,#REF!,Tue,Tue
+A00106,Central,Cartier,Assess,,2-Sep-20,16-Sep-20,2,,,0.25,29.13,Account,14,#REF!,#REF!,#REF!,29.13,#REF!,#REF!,Wed,Wed
+A00107,South,Lopez,Replace,,2-Sep-20,2-Oct-20,1,,,0.75,35.1,Account,30,#REF!,#REF!,#REF!,35.1,#REF!,#REF!,Wed,Fri
+A00108,Northwest,Burton,Deliver,,2-Sep-20,1-Oct-20,1,,,0.25,76.7,C.O.D.,29,#REF!,#REF!,#REF!,76.7,#REF!,#REF!,Wed,Thu
+A00109,Central,Khan,Repair,Yes,2-Sep-20,6-Oct-20,1,,,1.5,374.08,C.O.D.,34,#REF!,#REF!,#REF!,374.08,#REF!,#REF!,Wed,Tue
+A00110,West,Burton,Replace,,2-Sep-20,8-Dec-20,2,,,4.75,832.16,Account,97,#REF!,#REF!,#REF!,832.16,#REF!,#REF!,Wed,Tue
+A00111,South,Lopez,Deliver,Yes,3-Sep-20,23-Sep-20,1,,,0.25,70.21,Account,20,#REF!,#REF!,#REF!,70.21,#REF!,#REF!,Thu,Wed
+A00112,West,Burton,Assess,,4-Sep-20,30-Sep-20,1,,,0.5,150,P.O.,26,#REF!,#REF!,#REF!,150,#REF!,#REF!,Fri,Wed
+A00113,Central,Michner,Assess,,4-Sep-20,24-Oct-20,2,,,1.5,275,C.O.D.,50,#REF!,#REF!,#REF!,275,#REF!,#REF!,Fri,Sat
+A00114,Northwest,Khan,Replace,Yes,4-Sep-20,10-Nov-20,1,,,0.75,938,C.O.D.,67,#REF!,#REF!,#REF!,938,#REF!,#REF!,Fri,Tue
+A00115,South,Lopez,Assess,,5-Sep-20,21-Sep-20,1,,,0.25,61.25,Account,16,#REF!,#REF!,#REF!,61.25,#REF!,#REF!,Sat,Mon
+A00116,West,Burton,Assess,,5-Sep-20,22-Sep-20,1,,,1.5,48,C.O.D.,17,#REF!,#REF!,#REF!,48,#REF!,#REF!,Sat,Tue
+A00117,Northwest,Burton,Assess,,7-Sep-20,10-Sep-20,2,,,0.25,204.28,Account,3,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Mon,Thu
+A00118,Northwest,Cartier,Replace,,8-Sep-20,15-Sep-20,2,,,0.5,240,Account,7,#REF!,#REF!,#REF!,240,#REF!,#REF!,Tue,Tue
+A00119,Southeast,Khan,Replace,,8-Sep-20,17-Sep-20,2,,,0.5,120,Account,9,#REF!,#REF!,#REF!,120,#REF!,#REF!,Tue,Thu
+A00120,Central,Cartier,Repair,,8-Sep-20,21-Sep-20,1,,,1.75,475,Account,13,#REF!,#REF!,#REF!,475,#REF!,#REF!,Tue,Mon
+A00121,Southeast,Khan,Replace,,8-Sep-20,22-Sep-20,1,,,1.75,341,C.O.D.,14,#REF!,#REF!,#REF!,341,#REF!,#REF!,Tue,Tue
+A00122,Northwest,Khan,Assess,,8-Sep-20,28-Oct-20,1,,,0.75,61.18,C.O.D.,50,#REF!,#REF!,#REF!,61.18,#REF!,#REF!,Tue,Wed
+A00123,South,Lopez,Replace,,8-Sep-20,17-Nov-20,1,,,0.5,155.39,Account,70,#REF!,#REF!,#REF!,155.39,#REF!,#REF!,Tue,Tue
+A00124,Northwest,Michner,Replace,Yes,9-Sep-20,24-Sep-20,2,,,0.5,204.28,C.O.D.,15,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Wed,Thu
+A00125,South,Lopez,Assess,,9-Sep-20,29-Sep-20,1,,,0.5,37.92,Account,20,#REF!,#REF!,#REF!,37.92,#REF!,#REF!,Wed,Tue
+A00126,Northwest,Burton,Deliver,Yes,9-Sep-20,29-Sep-20,1,,,0.25,88.41,Account,20,#REF!,#REF!,#REF!,88.41,#REF!,#REF!,Wed,Tue
+A00127,South,Lopez,Deliver,,9-Sep-20,29-Sep-20,1,,,0.25,202.29,Account,20,#REF!,#REF!,#REF!,202.29,#REF!,#REF!,Wed,Tue
+A00128,West,Khan,Assess,,10-Sep-20,28-Sep-20,1,,,0.5,120,P.O.,18,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Mon
+A00129,Northwest,Michner,Deliver,,11-Sep-20,14-Sep-20,1,,,0.25,120,Account,3,#REF!,#REF!,#REF!,120,#REF!,#REF!,Fri,Mon
+A00130,Southwest,Cartier,Replace,,11-Sep-20,15-Sep-20,2,,,0.5,535.62,C.O.D.,4,#REF!,#REF!,#REF!,535.62,#REF!,#REF!,Fri,Tue
+A00131,Northwest,Khan,Assess,,11-Sep-20,23-Sep-20,2,,,0.25,24.63,Account,12,#REF!,#REF!,#REF!,24.63,#REF!,#REF!,Fri,Wed
+A00132,Northwest,Khan,Replace,,11-Sep-20,26-Sep-20,2,,,0.5,43.26,Account,15,#REF!,#REF!,#REF!,43.26,#REF!,#REF!,Fri,Sat
+A00133,West,Khan,Assess,,11-Sep-20,6-Oct-20,1,,,0.25,21.33,Account,25,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Fri,Tue
+A00134,West,Khan,Replace,,12-Sep-20,28-Sep-20,1,,,1,0.46,C.O.D.,16,#REF!,#REF!,#REF!,0.46,#REF!,#REF!,Sat,Mon
+A00135,Northwest,Khan,Assess,,14-Sep-20,24-Sep-20,2,,,0.25,126.62,C.O.D.,10,#REF!,#REF!,#REF!,126.62,#REF!,#REF!,Mon,Thu
+A00136,West,Khan,Replace,,14-Sep-20,28-Sep-20,1,,,1.5,251,Account,14,#REF!,#REF!,#REF!,251,#REF!,#REF!,Mon,Mon
+A00137,Southeast,Cartier,Assess,Yes,14-Sep-20,5-Oct-20,1,,,0.5,395.28,P.O.,21,#REF!,#REF!,#REF!,395.28,#REF!,#REF!,Mon,Mon
+A00138,Northwest,Michner,Deliver,Yes,14-Sep-20,7-Oct-20,1,,,0.25,36,Account,23,#REF!,#REF!,#REF!,36,#REF!,#REF!,Mon,Wed
+A00139,South,Lopez,Assess,,14-Sep-20,23-Nov-20,1,,,1.75,510.68,P.O.,70,#REF!,#REF!,#REF!,510.68,#REF!,#REF!,Mon,Mon
+A00140,Northwest,Michner,Replace,,15-Sep-20,7-Oct-20,2,,,0.5,42.66,Account,22,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Tue,Wed
+A00141,West,Khan,Replace,,16-Sep-20,28-Sep-20,1,,,1,5.47,C.O.D.,12,#REF!,#REF!,#REF!,5.47,#REF!,#REF!,Wed,Mon
+A00142,Northwest,Khan,Assess,Yes,16-Sep-20,28-Sep-20,1,,,0.25,45.24,Account,12,#REF!,#REF!,#REF!,45.24,#REF!,#REF!,Wed,Mon
+A00143,Northwest,Burton,Assess,,16-Sep-20,1-Oct-20,2,,,0.75,199.45,C.O.D.,15,#REF!,#REF!,#REF!,199.45,#REF!,#REF!,Wed,Thu
+A00144,Southeast,Burton,Assess,,16-Sep-20,5-Oct-20,2,,,0.5,144,C.O.D.,19,#REF!,#REF!,#REF!,144,#REF!,#REF!,Wed,Mon
+A00145,Southeast,Burton,Deliver,,17-Sep-20,6-Oct-20,1,,,0.25,6.22,C.O.D.,19,#REF!,#REF!,#REF!,6.22,#REF!,#REF!,Thu,Tue
+A00146,Northwest,Michner,Replace,,17-Sep-20,12-Oct-20,2,,,1,36,Account,25,#REF!,#REF!,#REF!,36,#REF!,#REF!,Thu,Mon
+A00147,Central,Cartier,Assess,,17-Sep-20,12-Oct-20,2,,,0.75,40,C.O.D.,25,#REF!,#REF!,#REF!,40,#REF!,#REF!,Thu,Mon
+A00148,South,Lopez,Assess,,17-Sep-20,17-Nov-20,1,,,0.25,87.58,Account,61,#REF!,#REF!,#REF!,87.58,#REF!,#REF!,Thu,Tue
+A00149,West,Khan,Replace,,21-Sep-20,28-Sep-20,1,,,0.5,30,C.O.D.,7,#REF!,#REF!,#REF!,30,#REF!,#REF!,Mon,Mon
+A00150,Southeast,Michner,Deliver,,21-Sep-20,19-Oct-20,1,,,0.25,144,P.O.,28,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Mon
+A00151,West,Khan,Replace,Yes,21-Sep-20,4-Nov-20,1,,,0.75,297.51,Account,44,#REF!,#REF!,#REF!,297.51,#REF!,#REF!,Mon,Wed
+A00152,West,Michner,Assess,,21-Sep-20,25-Nov-20,1,,,0.5,64.17,P.O.,65,#REF!,#REF!,#REF!,64.17,#REF!,#REF!,Mon,Wed
+A00153,South,Lopez,Deliver,,22-Sep-20,1-Oct-20,1,,,0.25,20.48,Account,9,#REF!,#REF!,#REF!,20.48,#REF!,#REF!,Tue,Thu
+A00154,West,Khan,Repair,,23-Sep-20,7-Oct-20,1,,,1,200,C.O.D.,14,#REF!,#REF!,#REF!,200,#REF!,#REF!,Wed,Wed
+A00155,Southeast,Burton,Repair,,23-Sep-20,15-Oct-20,1,,,1.5,123.96,C.O.D.,22,#REF!,#REF!,#REF!,123.96,#REF!,#REF!,Wed,Thu
+A00156,Central,Cartier,Replace,,23-Sep-20,24-Oct-20,1,,,0.5,193.88,Account,31,#REF!,#REF!,#REF!,193.88,#REF!,#REF!,Wed,Sat
+A00157,Southeast,Khan,Assess,,23-Sep-20,28-Oct-20,2,,,0.5,1.17,C.O.D.,35,#REF!,#REF!,#REF!,1.17,#REF!,#REF!,Wed,Wed
+A00158,Central,Michner,Assess,,24-Sep-20,5-Oct-20,2,,,0.75,664.79,Account,11,#REF!,#REF!,#REF!,664.79,#REF!,#REF!,Thu,Mon
+A00159,Northwest,Khan,Deliver,,24-Sep-20,15-Oct-20,1,,,0.25,160,Account,21,#REF!,#REF!,#REF!,160,#REF!,#REF!,Thu,Thu
+A00160,Northwest,Burton,Replace,,24-Sep-20,5-Nov-20,2,,,0.75,159.5,Account,42,#REF!,#REF!,#REF!,159.5,#REF!,#REF!,Thu,Thu
+A00161,North,Cartier,Assess,,24-Sep-20,17-Nov-20,2,,,0.75,169.64,P.O.,54,#REF!,#REF!,#REF!,169.64,#REF!,#REF!,Thu,Tue
+A00162,Southwest,Burton,Replace,,28-Sep-20,30-Sep-20,2,,,0.5,202.86,Account,2,#REF!,#REF!,#REF!,202.86,#REF!,#REF!,Mon,Wed
+A00163,South,Lopez,Assess,,28-Sep-20,7-Oct-20,1,,,0.5,10.53,P.O.,9,#REF!,#REF!,#REF!,10.53,#REF!,#REF!,Mon,Wed
+A00164,Central,Michner,Replace,,28-Sep-20,27-Oct-20,2,,,0.75,1.82,C.O.D.,29,#REF!,#REF!,#REF!,1.82,#REF!,#REF!,Mon,Tue
+A00165,South,Khan,Assess,,29-Sep-20,8-Oct-20,2,,,0.5,54.12,Account,9,#REF!,#REF!,#REF!,54.12,#REF!,#REF!,Tue,Thu
+A00166,Northwest,Michner,Deliver,,29-Sep-20,21-Oct-20,2,,,0.25,367.71,Account,22,#REF!,#REF!,#REF!,367.71,#REF!,#REF!,Tue,Wed
+A00167,West,Lopez,Assess,,29-Sep-20,19-Oct-20,1,,,1.5,139.04,Account,20,#REF!,#REF!,#REF!,139.04,#REF!,#REF!,Tue,Mon
+A00168,West,Khan,Replace,,29-Sep-20,27-Oct-20,1,,,0.5,50.32,P.O.,28,#REF!,#REF!,#REF!,50.32,#REF!,#REF!,Tue,Tue
+A00169,Central,Burton,Repair,,29-Sep-20,24-Nov-20,1,,,1,122.43,C.O.D.,56,#REF!,#REF!,#REF!,122.43,#REF!,#REF!,Tue,Tue
+A00170,West,Khan,Assess,,29-Sep-20,2-Dec-20,1,,,1,78.55,P.O.,64,#REF!,#REF!,#REF!,78.55,#REF!,#REF!,Tue,Wed
+A00171,Northwest,Khan,Deliver,Yes,30-Sep-20,7-Oct-20,1,,,0.25,239.1,Account,7,#REF!,#REF!,#REF!,239.1,#REF!,#REF!,Wed,Wed
+A00172,Central,Cartier,Replace,,30-Sep-20,19-Oct-20,1,,,0.5,61.18,C.O.D.,19,#REF!,#REF!,#REF!,61.18,#REF!,#REF!,Wed,Mon
+A00173,Northwest,Cartier,Repair,,30-Sep-20,18-Nov-20,2,,,2.25,800.71,Account,49,#REF!,#REF!,#REF!,800.71,#REF!,#REF!,Wed,Wed
+A00174,Northwest,Khan,Assess,,1-Oct-20,26-Oct-20,1,,,0.25,19.2,Account,25,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Thu,Mon
+A00175,South,Lopez,Assess,,5-Oct-20,13-Oct-20,1,,,0.25,19.5,Account,8,#REF!,#REF!,#REF!,19.5,#REF!,#REF!,Mon,Tue
+A00176,South,Lopez,Deliver,,5-Oct-20,13-Oct-20,1,,,0.25,22.43,Account,8,#REF!,#REF!,#REF!,22.43,#REF!,#REF!,Mon,Tue
+A00177,West,Burton,Assess,,5-Oct-20,13-Oct-20,1,,,0.5,26.58,Account,8,#REF!,#REF!,#REF!,26.58,#REF!,#REF!,Mon,Tue
+A00178,Central,Cartier,Assess,,5-Oct-20,24-Oct-20,1,,,0.5,288.21,C.O.D.,19,#REF!,#REF!,#REF!,288.21,#REF!,#REF!,Mon,Sat
+A00179,South,Lopez,Replace,,5-Oct-20,19-Oct-20,1,,,0.5,54.24,Account,14,#REF!,#REF!,#REF!,54.24,#REF!,#REF!,Mon,Mon
+A00180,West,Lopez,Assess,,6-Oct-20,19-Oct-20,1,,,0.25,332.4,P.O.,13,#REF!,#REF!,#REF!,332.4,#REF!,#REF!,Tue,Mon
+A00181,Northwest,Khan,Assess,,6-Oct-20,23-Oct-20,2,,,0.75,124.16,C.O.D.,17,#REF!,#REF!,#REF!,124.16,#REF!,#REF!,Tue,Fri
+A00182,Central,Burton,Deliver,,6-Oct-20,26-Oct-20,1,,,0.25,21.63,Account,20,#REF!,#REF!,#REF!,21.63,#REF!,#REF!,Tue,Mon
+A00183,Northwest,Khan,Assess,,7-Oct-20,19-Oct-20,2,,Yes,0.25,33,C.O.D.,12,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00184,Northwest,Khan,Assess,,7-Oct-20,19-Oct-20,2,,,0.5,154.5,C.O.D.,12,#REF!,#REF!,#REF!,154.5,#REF!,#REF!,Wed,Mon
+A00185,South,Lopez,Repair,,7-Oct-20,20-Oct-20,1,,,1,48.75,Account,13,#REF!,#REF!,#REF!,48.75,#REF!,#REF!,Wed,Tue
+A00186,South,Lopez,Deliver,,8-Oct-20,20-Oct-20,1,,,0.25,76.17,Account,12,#REF!,#REF!,#REF!,76.17,#REF!,#REF!,Thu,Tue
+A00187,Northwest,Khan,Replace,,8-Oct-20,7-Nov-20,1,,,0.75,117,C.O.D.,30,#REF!,#REF!,#REF!,117,#REF!,#REF!,Thu,Sat
+A00188,Northwest,Cartier,Repair,,8-Oct-20,10-Nov-20,2,,,1.5,"1,575.97",C.O.D.,33,#REF!,#REF!,#REF!,"1,575.97",#REF!,#REF!,Thu,Tue
+A00189,West,Khan,Replace,,8-Oct-20,18-Nov-20,1,,,0.5,21.33,P.O.,41,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Thu,Wed
+A00190,Southeast,Michner,Replace,,8-Oct-20,30-Nov-20,1,,,0.5,74.79,Account,53,#REF!,#REF!,#REF!,74.79,#REF!,#REF!,Thu,Mon
+A00191,Northeast,Michner,Repair,,8-Oct-20,1-Dec-20,2,,,4.75,"1,123.97",C.O.D.,54,#REF!,#REF!,#REF!,"1,123.97",#REF!,#REF!,Thu,Tue
+A00192,Central,Burton,Assess,,12-Oct-20,26-Oct-20,2,,,1,128.98,Account,14,#REF!,#REF!,#REF!,128.98,#REF!,#REF!,Mon,Mon
+A00193,West,Khan,Replace,,12-Oct-20,4-Nov-20,1,,,0.5,144,P.O.,23,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Wed
+A00194,Central,Michner,Assess,,12-Oct-20,5-Nov-20,2,,,1,"1,211.83",Account,24,#REF!,#REF!,#REF!,"1,211.83",#REF!,#REF!,Mon,Thu
+A00195,South,Michner,Replace,,12-Oct-20,18-Nov-20,1,,,0.5,54.12,Account,37,#REF!,#REF!,#REF!,54.12,#REF!,#REF!,Mon,Wed
+A00196,Northwest,Michner,Assess,Yes,12-Oct-20,19-Nov-20,1,,,0.5,55.94,C.O.D.,38,#REF!,#REF!,#REF!,55.94,#REF!,#REF!,Mon,Thu
+A00197,Southeast,Michner,Assess,Yes,13-Oct-20,27-Oct-20,1,,,0.5,11.06,P.O.,14,#REF!,#REF!,#REF!,11.06,#REF!,#REF!,Tue,Tue
+A00198,West,Khan,Repair,,13-Oct-20,27-Oct-20,1,,,2,77.17,Account,14,#REF!,#REF!,#REF!,77.17,#REF!,#REF!,Tue,Tue
+A00199,Northwest,Khan,Assess,,14-Oct-20,19-Oct-20,2,,,0.5,66.16,Account,5,#REF!,#REF!,#REF!,66.16,#REF!,#REF!,Wed,Mon
+A00200,Southwest,Michner,Deliver,,14-Oct-20,27-Oct-20,1,,,0.25,27.95,Account,13,#REF!,#REF!,#REF!,27.95,#REF!,#REF!,Wed,Tue
+A00201,West,Khan,Assess,,14-Oct-20,27-Oct-20,1,,,1,216.31,C.O.D.,13,#REF!,#REF!,#REF!,216.31,#REF!,#REF!,Wed,Tue
+A00202,Central,Burton,Repair,,14-Oct-20,3-Nov-20,2,,,2,619.51,P.O.,20,#REF!,#REF!,#REF!,619.51,#REF!,#REF!,Wed,Tue
+A00203,West,Michner,Replace,,14-Oct-20,10-Nov-20,1,,,0.5,3.12,C.O.D.,27,#REF!,#REF!,#REF!,3.12,#REF!,#REF!,Wed,Tue
+A00204,Central,Michner,Assess,,15-Oct-20,22-Oct-20,1,,,0.75,163.26,Account,7,#REF!,#REF!,#REF!,163.26,#REF!,#REF!,Thu,Thu
+A00205,South,Lopez,Deliver,,15-Oct-20,28-Oct-20,1,,,0.25,65.25,Account,13,#REF!,#REF!,#REF!,65.25,#REF!,#REF!,Thu,Wed
+A00206,West,Michner,Deliver,,15-Oct-20,10-Nov-20,1,,,0.25,30,P.O.,26,#REF!,#REF!,#REF!,30,#REF!,#REF!,Thu,Tue
+A00207,West,Michner,Replace,,15-Oct-20,10-Nov-20,1,,,0.5,105.84,Account,26,#REF!,#REF!,#REF!,105.84,#REF!,#REF!,Thu,Tue
+A00208,Northwest,Burton,Replace,,19-Oct-20,5-Nov-20,2,,,1,547.09,C.O.D.,17,#REF!,#REF!,#REF!,547.09,#REF!,#REF!,Mon,Thu
+A00209,West,Michner,Replace,,19-Oct-20,25-Nov-20,1,,,1,120,P.O.,37,#REF!,#REF!,#REF!,120,#REF!,#REF!,Mon,Wed
+A00210,Northwest,Khan,Assess,,20-Oct-20,30-Oct-20,1,,,0.25,30,Account,10,#REF!,#REF!,#REF!,30,#REF!,#REF!,Tue,Fri
+A00211,Central,Cartier,Deliver,,20-Oct-20,24-Nov-20,1,,,0.25,27.63,Account,35,#REF!,#REF!,#REF!,27.63,#REF!,#REF!,Tue,Tue
+A00212,Central,Burton,Assess,,21-Oct-20,6-Nov-20,1,,,0.25,250.42,Account,16,#REF!,#REF!,#REF!,250.42,#REF!,#REF!,Wed,Fri
+A00213,Northwest,Michner,Assess,Yes,21-Oct-20,5-Nov-20,2,,,0.25,38.7,C.O.D.,15,#REF!,#REF!,#REF!,38.7,#REF!,#REF!,Wed,Thu
+A00214,Northwest,Cartier,Assess,Yes,21-Oct-20,10-Nov-20,2,,,0.25,33,Account,20,#REF!,#REF!,#REF!,33,#REF!,#REF!,Wed,Tue
+A00215,West,Michner,Assess,,21-Oct-20,10-Nov-20,1,,,0.75,126,P.O.,20,#REF!,#REF!,#REF!,126,#REF!,#REF!,Wed,Tue
+A00216,Central,Michner,Install,,21-Oct-20,25-Jan-21,2,,,8.25,"4,946.00",Account,96,#REF!,#REF!,#REF!,"4,946.00",#REF!,#REF!,Wed,Mon
+A00217,Southeast,Michner,Replace,Yes,22-Oct-20,29-Oct-20,1,,,0.5,33.54,P.O.,7,#REF!,#REF!,#REF!,33.54,#REF!,#REF!,Thu,Thu
+A00218,Central,Burton,Assess,,24-Oct-20,6-Nov-20,2,,,0.25,25,Account,13,#REF!,#REF!,#REF!,25,#REF!,#REF!,Sat,Fri
+A00219,West,Khan,Assess,,24-Oct-20,24-Nov-20,1,,,0.5,28.59,Account,31,#REF!,#REF!,#REF!,28.59,#REF!,#REF!,Sat,Tue
+A00220,West,Burton,Replace,,24-Oct-20,14-Dec-20,2,,,2.5,213.48,Account,51,#REF!,#REF!,#REF!,213.48,#REF!,#REF!,Sat,Mon
+A00221,West,Khan,Assess,,26-Oct-20,27-Oct-20,1,,,0.5,83.44,Account,1,#REF!,#REF!,#REF!,83.44,#REF!,#REF!,Mon,Tue
+A00222,Southeast,Khan,Repair,,26-Oct-20,17-Nov-20,2,,,1,25,C.O.D.,22,#REF!,#REF!,#REF!,25,#REF!,#REF!,Mon,Tue
+A00223,South,Lopez,Assess,,27-Oct-20,17-Nov-20,1,,,0.25,67.96,Account,21,#REF!,#REF!,#REF!,67.96,#REF!,#REF!,Tue,Tue
+A00224,West,Khan,Replace,,27-Oct-20,16-Dec-20,1,,,0.5,172.02,P.O.,50,#REF!,#REF!,#REF!,172.02,#REF!,#REF!,Tue,Wed
+A00225,South,Lopez,Assess,,27-Oct-20,16-Jan-21,1,,,0.5,102.22,P.O.,81,#REF!,#REF!,#REF!,102.22,#REF!,#REF!,Tue,Sat
+A00226,South,Lopez,Replace,,28-Oct-20,30-Nov-20,1,,,0.5,373.55,Account,33,#REF!,#REF!,#REF!,373.55,#REF!,#REF!,Wed,Mon
+A00227,South,Lopez,Install,,28-Oct-20,1-Dec-20,3,,,2.75,"1,249.09",Account,34,#REF!,#REF!,#REF!,"1,249.09",#REF!,#REF!,Wed,Tue
+A00228,Northwest,Khan,Deliver,,29-Oct-20,6-Nov-20,1,,,0.25,240,Account,8,#REF!,#REF!,#REF!,240,#REF!,#REF!,Thu,Fri
+A00229,Northwest,Cartier,Deliver,,29-Oct-20,18-Nov-20,1,,,0.25,27,C.O.D.,20,#REF!,#REF!,#REF!,27,#REF!,#REF!,Thu,Wed
+A00230,West,Khan,Replace,,2-Nov-20,4-Nov-20,2,,,1,228.63,C.O.D.,2,#REF!,#REF!,#REF!,228.63,#REF!,#REF!,Mon,Wed
+A00231,West,Michner,Assess,,2-Nov-20,25-Nov-20,1,,,0.5,26.58,Account,23,#REF!,#REF!,#REF!,26.58,#REF!,#REF!,Mon,Wed
+A00232,North,Michner,Replace,,2-Nov-20,7-Dec-20,2,,,0.75,5.71,Account,35,#REF!,#REF!,#REF!,5.71,#REF!,#REF!,Mon,Mon
+A00233,Central,Michner,Replace,,2-Nov-20,11-Jan-21,2,,,0.5,263.05,C.O.D.,70,#REF!,#REF!,#REF!,263.05,#REF!,#REF!,Mon,Mon
+A00234,Southeast,Cartier,Replace,,2-Nov-20,15-Apr-21,2,,,1.75,8.25,Account,164,#REF!,#REF!,#REF!,8.25,#REF!,#REF!,Mon,Thu
+A00235,Southeast,Khan,Replace,,3-Nov-20,30-Nov-20,1,,,0.5,15.63,Account,27,#REF!,#REF!,#REF!,15.63,#REF!,#REF!,Tue,Mon
+A00236,Central,Michner,Replace,,3-Nov-20,2-Dec-20,1,,,0.5,15.63,Account,29,#REF!,#REF!,#REF!,15.63,#REF!,#REF!,Tue,Wed
+A00237,Southeast,Burton,Assess,,3-Nov-20,8-Dec-20,1,,,0.75,28.5,C.O.D.,35,#REF!,#REF!,#REF!,28.5,#REF!,#REF!,Tue,Tue
+A00238,West,Khan,Replace,,4-Nov-20,9-Nov-20,1,,,0.5,748.44,Account,5,#REF!,#REF!,#REF!,748.44,#REF!,#REF!,Wed,Mon
+A00239,West,Michner,Install,,4-Nov-20,17-Nov-20,1,,,1,86.36,P.O.,13,#REF!,#REF!,#REF!,86.36,#REF!,#REF!,Wed,Tue
+A00240,North,Cartier,Deliver,,4-Nov-20,17-Nov-20,1,,,0.25,108,P.O.,13,#REF!,#REF!,#REF!,108,#REF!,#REF!,Wed,Tue
+A00241,Central,Cartier,Replace,,4-Nov-20,24-Nov-20,2,,,0.5,279.31,Account,20,#REF!,#REF!,#REF!,279.31,#REF!,#REF!,Wed,Tue
+A00242,West,Khan,Assess,,4-Nov-20,2-Dec-20,1,,,0.5,25.26,Account,28,#REF!,#REF!,#REF!,25.26,#REF!,#REF!,Wed,Wed
+A00243,Central,Cartier,Replace,,5-Nov-20,18-Nov-20,1,,,1,351.02,C.O.D.,13,#REF!,#REF!,#REF!,351.02,#REF!,#REF!,Thu,Wed
+A00244,West,Michner,Replace,,5-Nov-20,25-Nov-20,1,,,0.5,27.95,Account,20,#REF!,#REF!,#REF!,27.95,#REF!,#REF!,Thu,Wed
+A00245,Northwest,Burton,Assess,,7-Nov-20,9-Dec-20,2,,,0.75,62.13,Account,32,#REF!,#REF!,#REF!,62.13,#REF!,#REF!,Sat,Wed
+A00246,South,Lopez,Install,,9-Nov-20,26-Nov-20,1,,,7,"3,396.25",P.O.,17,#REF!,#REF!,#REF!,"3,396.25",#REF!,#REF!,Mon,Thu
+A00247,East,Ling,Replace,,9-Nov-20,3-Mar-21,2,,,0.5,22,Account,114,#REF!,#REF!,#REF!,22,#REF!,#REF!,Mon,Wed
+A00248,West,Khan,Replace,,10-Nov-20,9-Dec-20,1,,,0.5,163.37,P.O.,29,#REF!,#REF!,#REF!,163.37,#REF!,#REF!,Tue,Wed
+A00249,South,Lopez,Assess,,11-Nov-20,25-Nov-20,1,,,0.25,25.41,Account,14,#REF!,#REF!,#REF!,25.41,#REF!,#REF!,Wed,Wed
+A00250,Southeast,Cartier,Replace,,11-Nov-20,3-Dec-20,2,,,0.75,182.7,C.O.D.,22,#REF!,#REF!,#REF!,182.7,#REF!,#REF!,Wed,Thu
+A00251,Southeast,Khan,Replace,,11-Nov-20,30-Nov-20,1,,,0.5,73.51,C.O.D.,19,#REF!,#REF!,#REF!,73.51,#REF!,#REF!,Wed,Mon
+A00252,Central,Cartier,Replace,Yes,11-Nov-20,1-Dec-20,2,,,0.5,115.22,Account,20,#REF!,#REF!,#REF!,115.22,#REF!,#REF!,Wed,Tue
+A00253,Northwest,Cartier,Replace,,12-Nov-20,19-Nov-20,2,,,0.75,340.45,C.O.D.,7,#REF!,#REF!,#REF!,340.45,#REF!,#REF!,Thu,Thu
+A00254,West,Khan,Assess,,12-Nov-20,26-Nov-20,1,,,0.5,12,Account,14,#REF!,#REF!,#REF!,12,#REF!,#REF!,Thu,Thu
+A00255,Southeast,Khan,Replace,,13-Nov-20,24-Nov-20,1,,,0.5,36.75,Account,11,#REF!,#REF!,#REF!,36.75,#REF!,#REF!,Fri,Tue
+A00256,South,Lopez,Install,,14-Nov-20,5-Dec-20,1,,,1.75,183.95,P.O.,21,#REF!,#REF!,#REF!,183.95,#REF!,#REF!,Sat,Sat
+A00257,West,Khan,Assess,Yes,14-Nov-20,2-Dec-20,1,,,0.25,26.58,P.O.,18,#REF!,#REF!,#REF!,26.58,#REF!,#REF!,Sat,Wed
+A00258,West,Khan,Assess,,16-Nov-20,2-Dec-20,1,,,0.5,13.42,C.O.D.,16,#REF!,#REF!,#REF!,13.42,#REF!,#REF!,Mon,Wed
+A00259,West,Khan,Install,,16-Nov-20,3-Dec-20,1,,,1,324,P.O.,17,#REF!,#REF!,#REF!,324,#REF!,#REF!,Mon,Thu
+A00260,Southeast,Khan,Replace,,17-Nov-20,9-Dec-20,2,,,0.5,504.21,C.O.D.,22,#REF!,#REF!,#REF!,504.21,#REF!,#REF!,Tue,Wed
+A00261,Central,Khan,Assess,Yes,17-Nov-20,15-Dec-20,2,,,0.5,338.07,Account,28,#REF!,#REF!,#REF!,338.07,#REF!,#REF!,Tue,Tue
+A00262,Southeast,Burton,Assess,,18-Nov-20,30-Nov-20,2,,,1.5,0.98,C.O.D.,12,#REF!,#REF!,#REF!,0.98,#REF!,#REF!,Wed,Mon
+A00263,Southeast,Khan,Assess,,18-Nov-20,30-Nov-20,1,,,0.5,14.88,Account,12,#REF!,#REF!,#REF!,14.88,#REF!,#REF!,Wed,Mon
+A00264,South,Lopez,Assess,,19-Nov-20,30-Nov-20,1,,,0.5,81.9,Account,11,#REF!,#REF!,#REF!,81.9,#REF!,#REF!,Thu,Mon
+A00265,Northwest,Burton,Assess,,19-Nov-20,3-Dec-20,2,,,0.25,21.33,Account,14,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Thu,Thu
+A00266,Central,Khan,Assess,,19-Nov-20,3-Dec-20,1,,,0.25,120,P.O.,14,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Thu
+A00267,Northwest,Michner,Replace,,19-Nov-20,17-Dec-20,2,,,0.5,"1,579.40",Account,28,#REF!,#REF!,#REF!,"1,579.40",#REF!,#REF!,Thu,Thu
+A00268,South,Khan,Replace,,21-Nov-20,30-Nov-20,2,,,0.5,174.18,C.O.D.,9,#REF!,#REF!,#REF!,174.18,#REF!,#REF!,Sat,Mon
+A00269,Central,Burton,Replace,,23-Nov-20,7-Dec-20,1,,,0.75,20,Account,14,#REF!,#REF!,#REF!,20,#REF!,#REF!,Mon,Mon
+A00270,Northwest,Khan,Install,,23-Nov-20,5-Jan-21,1,,,2.5,689.15,P.O.,43,#REF!,#REF!,#REF!,689.15,#REF!,#REF!,Mon,Tue
+A00271,Southeast,Michner,Assess,,23-Nov-20,7-Jan-21,1,,,0.25,156,Account,45,#REF!,#REF!,#REF!,156,#REF!,#REF!,Mon,Thu
+A00272,South,Lopez,Assess,,23-Nov-20,16-Jan-21,1,,,0.25,45.73,Account,54,#REF!,#REF!,#REF!,45.73,#REF!,#REF!,Mon,Sat
+A00273,East,Ling,Replace,,23-Nov-20,9-Feb-21,2,,,0.5,204.28,Account,78,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Mon,Tue
+A00274,Northwest,Khan,Deliver,Yes,24-Nov-20,26-Nov-20,1,,,0.25,21.33,Account,2,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Tue,Thu
+A00275,Southeast,Khan,Replace,,24-Nov-20,3-Dec-20,1,,,0.5,34.08,P.O.,9,#REF!,#REF!,#REF!,34.08,#REF!,#REF!,Tue,Thu
+A00276,Northwest,Michner,Replace,,24-Nov-20,3-Dec-20,2,,,0.75,212.01,Account,9,#REF!,#REF!,#REF!,212.01,#REF!,#REF!,Tue,Thu
+A00277,Northwest,Khan,Repair,,24-Nov-20,7-Dec-20,1,,,1,341.27,C.O.D.,13,#REF!,#REF!,#REF!,341.27,#REF!,#REF!,Tue,Mon
+A00278,Central,Cartier,Replace,,24-Nov-20,18-Feb-21,1,,,0.5,25.77,Account,86,#REF!,#REF!,#REF!,25.77,#REF!,#REF!,Tue,Thu
+A00279,Southeast,Khan,Assess,Yes,25-Nov-20,7-Dec-20,1,,,0.5,133.37,Account,12,#REF!,#REF!,#REF!,133.37,#REF!,#REF!,Wed,Mon
+A00280,West,Khan,Assess,,25-Nov-20,4-Jan-21,1,,,0.5,66.86,Account,40,#REF!,#REF!,#REF!,66.86,#REF!,#REF!,Wed,Mon
+A00281,West,Khan,Assess,,25-Nov-20,4-Jan-21,1,,,0.75,94.26,P.O.,40,#REF!,#REF!,#REF!,94.26,#REF!,#REF!,Wed,Mon
+A00282,West,Khan,Assess,,25-Nov-20,4-Jan-21,1,,,0.25,120,C.O.D.,40,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Mon
+A00283,West,Khan,Deliver,,26-Nov-20,2-Dec-20,1,,,0.25,120,Account,6,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Wed
+A00284,Northwest,Burton,Deliver,Yes,26-Nov-20,3-Dec-20,1,,,0.25,45.99,P.O.,7,#REF!,#REF!,#REF!,45.99,#REF!,#REF!,Thu,Thu
+A00285,Southeast,Burton,Assess,,26-Nov-20,10-Dec-20,1,,,0.5,33,C.O.D.,14,#REF!,#REF!,#REF!,33,#REF!,#REF!,Thu,Thu
+A00286,Northwest,Michner,Assess,,26-Nov-20,11-Jan-21,1,,,0.25,21.33,C.O.D.,46,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Thu,Mon
+A00287,Northwest,Cartier,Deliver,Yes,26-Nov-20,17-Feb-21,1,,,0.25,37.26,Account,83,#REF!,#REF!,#REF!,37.26,#REF!,#REF!,Thu,Wed
+A00288,Southeast,Khan,Replace,,27-Nov-20,22-Dec-20,1,,,1,81.89,C.O.D.,25,#REF!,#REF!,#REF!,81.89,#REF!,#REF!,Fri,Tue
+A00289,Central,Khan,Deliver,Yes,30-Nov-20,8-Dec-20,1,,,0.25,10.1,C.O.D.,8,#REF!,#REF!,#REF!,10.1,#REF!,#REF!,Mon,Tue
+A00290,Southeast,Khan,Deliver,,30-Nov-20,8-Dec-20,1,,,0.25,17.88,Account,8,#REF!,#REF!,#REF!,17.88,#REF!,#REF!,Mon,Tue
+A00291,Northeast,Michner,Repair,,30-Nov-20,8-Dec-20,2,,,2.75,"1,204.64",C.O.D.,8,#REF!,#REF!,#REF!,"1,204.64",#REF!,#REF!,Mon,Tue
+A00292,Northeast,Burton,Repair,,30-Nov-20,17-Dec-20,2,,,3,111,C.O.D.,17,#REF!,#REF!,#REF!,111,#REF!,#REF!,Mon,Thu
+A00293,West,Khan,Assess,,30-Nov-20,4-Jan-21,1,,,0.25,21.21,P.O.,35,#REF!,#REF!,#REF!,21.21,#REF!,#REF!,Mon,Mon
+A00294,Northeast,Ling,Assess,,30-Nov-20,25-Feb-21,2,,,0.5,158.31,C.O.D.,87,#REF!,#REF!,#REF!,158.31,#REF!,#REF!,Mon,Thu
+A00295,Southeast,Burton,Assess,,1-Dec-20,11-Jan-21,1,,,0.5,36.75,C.O.D.,41,#REF!,#REF!,#REF!,36.75,#REF!,#REF!,Tue,Mon
+A00296,North,Ling,Replace,,1-Dec-20,4-May-21,2,,,0.5,242.07,C.O.D.,154,#REF!,#REF!,#REF!,242.07,#REF!,#REF!,Tue,Tue
+A00297,Northwest,Khan,Assess,,2-Dec-20,17-Dec-20,1,,,0.5,30,C.O.D.,15,#REF!,#REF!,#REF!,30,#REF!,#REF!,Wed,Thu
+A00298,Northwest,Khan,Assess,Yes,2-Dec-20,15-Dec-20,1,,,0.5,52.9,C.O.D.,13,#REF!,#REF!,#REF!,52.9,#REF!,#REF!,Wed,Tue
+A00299,Northwest,Cartier,Deliver,Yes,2-Dec-20,17-Dec-20,1,,,0.25,36.75,Account,15,#REF!,#REF!,#REF!,36.75,#REF!,#REF!,Wed,Thu
+A00300,Southeast,Michner,Deliver,,2-Dec-20,7-Jan-21,1,,,0.25,45.24,C.O.D.,36,#REF!,#REF!,#REF!,45.24,#REF!,#REF!,Wed,Thu
+A00301,Northwest,Cartier,Replace,Yes,2-Dec-20,27-Jan-21,1,,,0.75,42.66,Account,56,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Wed,Wed
+A00302,North,Ling,Replace,,2-Dec-20,15-Feb-21,2,,,1,226,Account,75,#REF!,#REF!,#REF!,226,#REF!,#REF!,Wed,Mon
+A00303,South,Michner,Assess,,3-Dec-20,6-Jan-21,2,,,0.5,45.24,Account,34,#REF!,#REF!,#REF!,45.24,#REF!,#REF!,Thu,Wed
+A00304,Northwest,Burton,Deliver,Yes,3-Dec-20,25-Jan-21,1,,,0.25,36.97,C.O.D.,53,#REF!,#REF!,#REF!,36.97,#REF!,#REF!,Thu,Mon
+A00305,South,Lopez,Assess,,5-Dec-20,23-Dec-20,1,,,0.5,138.57,Account,18,#REF!,#REF!,#REF!,138.57,#REF!,#REF!,Sat,Wed
+A00306,South,Lopez,Deliver,,5-Dec-20,6-Jan-21,1,,,0.25,126.56,Account,32,#REF!,#REF!,#REF!,126.56,#REF!,#REF!,Sat,Wed
+A00307,West,Burton,Install,,7-Dec-20,5-Jan-21,2,,,1,51.45,P.O.,29,#REF!,#REF!,#REF!,51.45,#REF!,#REF!,Mon,Tue
+A00308,South,Lopez,Deliver,,7-Dec-20,7-Jan-21,1,,,0.25,227.94,Account,31,#REF!,#REF!,#REF!,227.94,#REF!,#REF!,Mon,Thu
+A00309,Northwest,Michner,Replace,,7-Dec-20,11-Jan-21,1,,,0.5,367.71,P.O.,35,#REF!,#REF!,#REF!,367.71,#REF!,#REF!,Mon,Mon
+A00310,North,Khan,Replace,,7-Dec-20,12-Jan-21,2,,,1.25,637.53,Account,36,#REF!,#REF!,#REF!,637.53,#REF!,#REF!,Mon,Tue
+A00311,Central,Khan,Replace,,8-Dec-20,15-Dec-20,2,,,3,21.33,Account,7,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Tue,Tue
+A00312,West,Cartier,Replace,,8-Dec-20,16-Dec-20,2,,,1.5,318.73,Account,8,#REF!,#REF!,#REF!,318.73,#REF!,#REF!,Tue,Wed
+A00313,Northwest,Cartier,Replace,Yes,8-Dec-20,12-Feb-21,2,,,0.75,35.45,Account,66,#REF!,#REF!,#REF!,35.45,#REF!,#REF!,Tue,Fri
+A00314,South,Lopez,Install,,9-Dec-20,17-Dec-20,1,,,1.75,131.3,P.O.,8,#REF!,#REF!,#REF!,131.3,#REF!,#REF!,Wed,Thu
+A00315,Northwest,Cartier,Deliver,,9-Dec-20,11-Jan-21,1,,,0.25,37.26,C.O.D.,33,#REF!,#REF!,#REF!,37.26,#REF!,#REF!,Wed,Mon
+A00316,Northeast,Michner,Install,,9-Dec-20,12-Jan-21,2,,,3,"1,193.75",C.O.D.,34,#REF!,#REF!,#REF!,"1,193.75",#REF!,#REF!,Wed,Tue
+A00317,Southeast,Michner,Replace,Yes,10-Dec-20,14-Dec-20,1,,,0.5,250.42,C.O.D.,4,#REF!,#REF!,#REF!,250.42,#REF!,#REF!,Thu,Mon
+A00318,South,Lopez,Deliver,,10-Dec-20,7-Jan-21,1,,,0.25,67.7,P.O.,28,#REF!,#REF!,#REF!,67.7,#REF!,#REF!,Thu,Thu
+A00319,Central,Burton,Install,,10-Dec-20,7-Jan-21,2,,,1.25,58.24,Account,28,#REF!,#REF!,#REF!,58.24,#REF!,#REF!,Thu,Thu
+A00320,West,Lopez,Assess,,10-Dec-20,14-Jan-21,1,,,0.5,32.23,P.O.,35,#REF!,#REF!,#REF!,32.23,#REF!,#REF!,Thu,Thu
+A00321,Central,Khan,Replace,,10-Dec-20,23-Jan-21,1,,,2.25,180,Account,44,#REF!,#REF!,#REF!,180,#REF!,#REF!,Thu,Sat
+A00322,West,Khan,Assess,Yes,12-Dec-20,28-Jan-21,1,,,1,337.92,Account,47,#REF!,#REF!,#REF!,337.92,#REF!,#REF!,Sat,Thu
+A00323,Northwest,Michner,Assess,Yes,14-Dec-20,15-Dec-20,1,,,0.75,63.99,Account,1,#REF!,#REF!,#REF!,63.99,#REF!,#REF!,Mon,Tue
+A00324,West,Khan,Assess,,14-Dec-20,16-Dec-20,1,,,0.5,145.89,P.O.,2,#REF!,#REF!,#REF!,145.89,#REF!,#REF!,Mon,Wed
+A00325,West,Khan,Deliver,,14-Dec-20,4-Jan-21,1,,,0.25,30,P.O.,21,#REF!,#REF!,#REF!,30,#REF!,#REF!,Mon,Mon
+A00326,West,Khan,Replace,,14-Dec-20,4-Jan-21,1,,,0.5,57.1,Account,21,#REF!,#REF!,#REF!,57.1,#REF!,#REF!,Mon,Mon
+A00327,North,Khan,Install,,14-Dec-20,13-Jan-21,2,,,3.5,262.44,Account,30,#REF!,#REF!,#REF!,262.44,#REF!,#REF!,Mon,Wed
+A00328,West,Khan,Assess,,14-Dec-20,19-Jan-21,1,,,0.5,21.33,P.O.,36,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Tue
+A00329,South,Lopez,Repair,,14-Dec-20,4-May-21,1,,,4,"1,769.63",P.O.,141,#REF!,#REF!,#REF!,"1,769.63",#REF!,#REF!,Mon,Tue
+A00330,South,Lopez,Replace,,15-Dec-20,13-Jan-21,1,,,0.75,82.88,P.O.,29,#REF!,#REF!,#REF!,82.88,#REF!,#REF!,Tue,Wed
+A00331,Central,Michner,Assess,,15-Dec-20,25-Jan-21,2,,,0.75,"2,294.00",Account,41,#REF!,#REF!,#REF!,"2,294.00",#REF!,#REF!,Tue,Mon
+A00332,Southeast,Khan,Assess,,16-Dec-20,23-Dec-20,1,,,1,348.74,Account,7,#REF!,#REF!,#REF!,348.74,#REF!,#REF!,Wed,Wed
+A00333,South,Lopez,Assess,,16-Dec-20,14-Jan-21,1,,,0.25,140.4,Account,29,#REF!,#REF!,#REF!,140.4,#REF!,#REF!,Wed,Thu
+A00334,East,Ling,Assess,,16-Dec-20,1-Feb-21,2,,,0.5,134,Account,47,#REF!,#REF!,#REF!,134,#REF!,#REF!,Wed,Mon
+A00335,Northwest,Burton,Repair,,21-Dec-20,26-Jan-21,2,,,1,305.63,Account,36,#REF!,#REF!,#REF!,305.63,#REF!,#REF!,Mon,Tue
+A00336,Northwest,Michner,Assess,Yes,4-Jan-21,11-Jan-21,1,,,0.25,19.2,Account,7,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Mon,Mon
+A00337,South,Lopez,Assess,,4-Jan-21,13-Jan-21,1,,,0.5,18.53,P.O.,9,#REF!,#REF!,#REF!,18.53,#REF!,#REF!,Mon,Wed
+A00338,West,Lopez,Deliver,,4-Jan-21,13-Jan-21,1,,,0.25,39,Account,9,#REF!,#REF!,#REF!,39,#REF!,#REF!,Mon,Wed
+A00339,South,Lopez,Assess,,4-Jan-21,14-Jan-21,2,,,0.25,36.5,P.O.,10,#REF!,#REF!,#REF!,36.5,#REF!,#REF!,Mon,Thu
+A00340,Central,Cartier,Assess,,4-Jan-21,14-Jan-21,2,,,0.5,29.81,C.O.D.,10,#REF!,#REF!,#REF!,29.81,#REF!,#REF!,Mon,Thu
+A00341,Central,Michner,Assess,,4-Jan-21,14-Jan-21,1,,,0.25,43.02,Account,10,#REF!,#REF!,#REF!,43.02,#REF!,#REF!,Mon,Thu
+A00342,Northwest,Burton,Deliver,,4-Jan-21,21-Jan-21,1,,,0.25,66.86,Account,17,#REF!,#REF!,#REF!,66.86,#REF!,#REF!,Mon,Thu
+A00343,Northwest,Burton,Replace,,4-Jan-21,11-Feb-21,1,,,0.75,408.57,Account,38,#REF!,#REF!,#REF!,408.57,#REF!,#REF!,Mon,Thu
+A00344,South,Lopez,Assess,,5-Jan-21,14-Jan-21,1,,,0.25,25.25,P.O.,9,#REF!,#REF!,#REF!,25.25,#REF!,#REF!,Tue,Thu
+A00345,Central,Cartier,Replace,,5-Jan-21,25-Jan-21,1,,,1.25,646,Account,20,#REF!,#REF!,#REF!,646,#REF!,#REF!,Tue,Mon
+A00346,Central,Michner,Deliver,,5-Jan-21,30-Jan-21,1,,,0.25,125.42,C.O.D.,25,#REF!,#REF!,#REF!,125.42,#REF!,#REF!,Tue,Sat
+A00347,Northwest,Khan,Assess,,5-Jan-21,2-Feb-21,2,,,0.75,286.73,Account,28,#REF!,#REF!,#REF!,286.73,#REF!,#REF!,Tue,Tue
+A00348,South,Michner,Install,,5-Jan-21,2-Feb-21,1,,,2.5,258.03,C.O.D.,28,#REF!,#REF!,#REF!,258.03,#REF!,#REF!,Tue,Tue
+A00349,South,Lopez,Assess,,5-Jan-21,4-May-21,1,,,0.25,14.3,P.O.,119,#REF!,#REF!,#REF!,14.3,#REF!,#REF!,Tue,Tue
+A00350,South,Lopez,Assess,,6-Jan-21,18-Jan-21,1,,,0.25,44.85,P.O.,12,#REF!,#REF!,#REF!,44.85,#REF!,#REF!,Wed,Mon
+A00351,Northwest,Michner,Assess,,6-Jan-21,21-Jan-21,2,,,0.5,74.61,C.O.D.,15,#REF!,#REF!,#REF!,74.61,#REF!,#REF!,Wed,Thu
+A00352,North,Ling,Replace,Yes,6-Jan-21,3-Feb-21,2,,,0.5,126.71,Account,28,#REF!,#REF!,#REF!,126.71,#REF!,#REF!,Wed,Wed
+A00353,North,Ling,Replace,,6-Jan-21,4-Mar-21,2,,,1.25,256.84,Account,57,#REF!,#REF!,#REF!,256.84,#REF!,#REF!,Wed,Thu
+A00354,Southeast,Cartier,Deliver,,7-Jan-21,19-Jan-21,1,,,0.25,32.67,P.O.,12,#REF!,#REF!,#REF!,32.67,#REF!,#REF!,Thu,Tue
+A00355,Northwest,Cartier,Assess,Yes,7-Jan-21,1-Feb-21,2,,,0.5,72.35,Account,25,#REF!,#REF!,#REF!,72.35,#REF!,#REF!,Thu,Mon
+A00356,North,Ling,Replace,,7-Jan-21,5-Feb-21,2,,,0.5,178.5,C.O.D.,29,#REF!,#REF!,#REF!,178.5,#REF!,#REF!,Thu,Fri
+A00357,Northwest,Burton,Replace,,7-Jan-21,22-Feb-21,1,,,0.5,18.25,C.O.D.,46,#REF!,#REF!,#REF!,18.25,#REF!,#REF!,Thu,Mon
+A00358,North,Ling,Assess,,7-Jan-21,22-Feb-21,2,,,1.75,151.81,C.O.D.,46,#REF!,#REF!,#REF!,151.81,#REF!,#REF!,Thu,Mon
+A00359,Southeast,Burton,Deliver,,8-Jan-21,16-Jan-21,1,,,0.25,85.09,C.O.D.,8,#REF!,#REF!,#REF!,85.09,#REF!,#REF!,Fri,Sat
+A00360,South,Lopez,Assess,,8-Jan-21,1-Feb-21,1,,,0.25,67.07,Account,24,#REF!,#REF!,#REF!,67.07,#REF!,#REF!,Fri,Mon
+A00361,South,Lopez,Deliver,,11-Jan-21,21-Jan-21,1,,,0.25,162.21,Account,10,#REF!,#REF!,#REF!,162.21,#REF!,#REF!,Mon,Thu
+A00362,Southeast,Burton,Install,,11-Jan-21,28-Jan-21,1,,,1.25,53.69,Account,17,#REF!,#REF!,#REF!,53.69,#REF!,#REF!,Mon,Thu
+A00363,Southeast,Michner,Assess,,11-Jan-21,1-Feb-21,2,,,1,211.85,C.O.D.,21,#REF!,#REF!,#REF!,211.85,#REF!,#REF!,Mon,Mon
+A00364,South,Lopez,Assess,,11-Jan-21,1-Feb-21,1,,,0.25,150.32,P.O.,21,#REF!,#REF!,#REF!,150.32,#REF!,#REF!,Mon,Mon
+A00365,East,Ling,Assess,,11-Jan-21,23-Feb-21,2,,,0.25,46.86,Account,43,#REF!,#REF!,#REF!,46.86,#REF!,#REF!,Mon,Tue
+A00366,South,Lopez,Assess,,12-Jan-21,21-Jan-21,1,,,0.25,19.5,P.O.,9,#REF!,#REF!,#REF!,19.5,#REF!,#REF!,Tue,Thu
+A00367,Central,Cartier,Replace,,12-Jan-21,19-Jan-21,1,,,1.25,256.72,C.O.D.,7,#REF!,#REF!,#REF!,256.72,#REF!,#REF!,Tue,Tue
+A00368,Northwest,Khan,Replace,,13-Jan-21,30-Jan-21,1,,,1,86.29,C.O.D.,17,#REF!,#REF!,#REF!,86.29,#REF!,#REF!,Wed,Sat
+A00369,South,Lopez,Assess,,14-Jan-21,19-Jan-21,1,,,0.25,108.31,P.O.,5,#REF!,#REF!,#REF!,108.31,#REF!,#REF!,Thu,Tue
+A00370,Southeast,Cartier,Assess,,14-Jan-21,25-Jan-21,1,,,0.25,70.82,C.O.D.,11,#REF!,#REF!,#REF!,70.82,#REF!,#REF!,Thu,Mon
+A00371,South,Lopez,Assess,Yes,14-Jan-21,1-Feb-21,1,,,0.5,56.92,Account,18,#REF!,#REF!,#REF!,56.92,#REF!,#REF!,Thu,Mon
+A00372,Northwest,Burton,Assess,,14-Jan-21,5-Feb-21,2,,,0.5,74.53,C.O.D.,22,#REF!,#REF!,#REF!,74.53,#REF!,#REF!,Thu,Fri
+A00373,North,Ling,Assess,,14-Jan-21,15-Feb-21,2,,,0.5,137.22,Account,32,#REF!,#REF!,#REF!,137.22,#REF!,#REF!,Thu,Mon
+A00374,Northwest,Cartier,Assess,Yes,15-Jan-21,1-Feb-21,2,,,0.5,83.46,Account,17,#REF!,#REF!,#REF!,83.46,#REF!,#REF!,Fri,Mon
+A00375,West,Khan,Assess,,16-Jan-21,3-Feb-21,1,,,1,9.92,P.O.,18,#REF!,#REF!,#REF!,9.92,#REF!,#REF!,Sat,Wed
+A00376,Southeast,Cartier,Assess,,18-Jan-21,25-Jan-21,1,,,0.25,72.35,C.O.D.,7,#REF!,#REF!,#REF!,72.35,#REF!,#REF!,Mon,Mon
+A00377,Northwest,Cartier,Deliver,Yes,18-Jan-21,27-Jan-21,1,,,0.25,19.98,Account,9,#REF!,#REF!,#REF!,19.98,#REF!,#REF!,Mon,Wed
+A00378,East,Ling,Repair,,18-Jan-21,2-Feb-21,2,,,1.25,85.32,Account,15,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Mon,Tue
+A00379,West,Khan,Assess,,18-Jan-21,1-Mar-21,1,,,0.5,180,P.O.,42,#REF!,#REF!,#REF!,180,#REF!,#REF!,Mon,Mon
+A00380,East,Ling,Assess,,19-Jan-21,4-Feb-21,2,,,0.25,52.35,Account,16,#REF!,#REF!,#REF!,52.35,#REF!,#REF!,Tue,Thu
+A00381,East,Ling,Assess,,19-Jan-21,9-Feb-21,2,,,0.5,45.29,Account,21,#REF!,#REF!,#REF!,45.29,#REF!,#REF!,Tue,Tue
+A00382,South,Lopez,Deliver,,20-Jan-21,28-Jan-21,1,,,0.25,11.7,Account,8,#REF!,#REF!,#REF!,11.7,#REF!,#REF!,Wed,Thu
+A00383,Central,Khan,Deliver,,20-Jan-21,13-May-21,1,,,0.25,37.71,P.O.,113,#REF!,#REF!,#REF!,37.71,#REF!,#REF!,Wed,Thu
+A00384,Central,Michner,Install,,21-Jan-21,2-Feb-21,1,,,1,155.04,C.O.D.,12,#REF!,#REF!,#REF!,155.04,#REF!,#REF!,Thu,Tue
+A00385,South,Lopez,Assess,,21-Jan-21,12-Feb-21,1,,,1.25,93.6,P.O.,22,#REF!,#REF!,#REF!,93.6,#REF!,#REF!,Thu,Fri
+A00386,North,Ling,Deliver,,21-Jan-21,10-Feb-21,1,,,0.25,21.33,Account,20,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Thu,Wed
+A00387,Central,Burton,Repair,,21-Jan-21,23-Mar-21,1,,,2.5,357.11,Account,61,#REF!,#REF!,#REF!,357.11,#REF!,#REF!,Thu,Tue
+A00388,Northwest,Burton,Deliver,,22-Jan-21,30-Jan-21,1,,,0.25,120,C.O.D.,8,#REF!,#REF!,#REF!,120,#REF!,#REF!,Fri,Sat
+A00389,Southeast,Burton,Replace,,25-Jan-21,9-Feb-21,1,,,0.5,52.35,C.O.D.,15,#REF!,#REF!,#REF!,52.35,#REF!,#REF!,Mon,Tue
+A00390,Northwest,Cartier,Replace,,25-Jan-21,15-Feb-21,1,,,3.25,511.88,Account,21,#REF!,#REF!,#REF!,511.88,#REF!,#REF!,Mon,Mon
+A00391,North,Ling,Replace,,25-Jan-21,20-Mar-21,2,,,2,368.87,Account,54,#REF!,#REF!,#REF!,368.87,#REF!,#REF!,Mon,Sat
+A00392,North,Ling,Deliver,,27-Jan-21,4-Feb-21,1,,,0.25,120,Account,8,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Thu
+A00393,North,Ling,Replace,Yes,27-Jan-21,22-Feb-21,2,,,0.5,5.47,C.O.D.,26,#REF!,#REF!,#REF!,5.47,#REF!,#REF!,Wed,Mon
+A00394,Southeast,Khan,Assess,,28-Jan-21,8-Feb-21,1,,,1,60,C.O.D.,11,#REF!,#REF!,#REF!,60,#REF!,#REF!,Thu,Mon
+A00395,Northwest,Burton,Replace,,28-Jan-21,10-Feb-21,1,,,0.75,114.89,P.O.,13,#REF!,#REF!,#REF!,114.89,#REF!,#REF!,Thu,Wed
+A00396,North,Ling,Assess,,28-Jan-21,18-Feb-21,2,,,0.25,23.9,C.O.D.,21,#REF!,#REF!,#REF!,23.9,#REF!,#REF!,Thu,Thu
+A00397,South,Lopez,Assess,,28-Jan-21,18-Feb-21,1,,,0.25,57.2,P.O.,21,#REF!,#REF!,#REF!,57.2,#REF!,#REF!,Thu,Thu
+A00398,Northwest,Burton,Replace,,28-Jan-21,3-Mar-21,2,,,8.5,653.99,Account,34,#REF!,#REF!,#REF!,653.99,#REF!,#REF!,Thu,Wed
+A00399,South,Lopez,Assess,,28-Jan-21,16-Mar-21,1,,,0.5,9.75,Account,47,#REF!,#REF!,#REF!,9.75,#REF!,#REF!,Thu,Tue
+A00400,North,Ling,Replace,,30-Jan-21,2-Feb-21,2,,,0.5,134,Account,3,#REF!,#REF!,#REF!,134,#REF!,#REF!,Sat,Tue
+A00401,North,Ling,Assess,,1-Feb-21,10-Feb-21,2,,,0.25,144,Account,9,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Wed
+A00402,Northwest,Burton,Assess,,1-Feb-21,10-Feb-21,1,,,0.5,205.19,C.O.D.,9,#REF!,#REF!,#REF!,205.19,#REF!,#REF!,Mon,Wed
+A00403,West,Lopez,Replace,,1-Feb-21,25-Feb-21,1,,,0.5,42.9,Account,24,#REF!,#REF!,#REF!,42.9,#REF!,#REF!,Mon,Thu
+A00404,East,Ling,Replace,,1-Feb-21,3-Mar-21,2,,,1.5,319.82,Account,30,#REF!,#REF!,#REF!,319.82,#REF!,#REF!,Mon,Wed
+A00405,Northeast,Ling,Assess,,1-Feb-21,11-Mar-21,1,,,0.25,21.33,Account,38,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Thu
+A00406,North,Ling,Assess,,2-Feb-21,2-Feb-21,2,,,0.5,21.33,Account, -   ,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Tue,Tue
+A00407,East,Ling,Replace,,2-Feb-21,9-Feb-21,2,,,0.5,"1,231.20",C.O.D.,7,#REF!,#REF!,#REF!,"1,231.20",#REF!,#REF!,Tue,Tue
+A00408,North,Ling,Replace,,2-Feb-21,17-Feb-21,2,,,0.5,56.5,C.O.D.,15,#REF!,#REF!,#REF!,56.5,#REF!,#REF!,Tue,Wed
+A00409,North,Ling,Replace,,2-Feb-21,18-Feb-21,2,,,0.5,269.95,Account,16,#REF!,#REF!,#REF!,269.95,#REF!,#REF!,Tue,Thu
+A00410,East,Ling,Replace,,2-Feb-21,3-Mar-21,2,,,0.5,83.23,Account,29,#REF!,#REF!,#REF!,83.23,#REF!,#REF!,Tue,Wed
+A00411,Southeast,Burton,Deliver,,2-Feb-21,18-Mar-21,1,,,0.25,88.62,Account,44,#REF!,#REF!,#REF!,88.62,#REF!,#REF!,Tue,Thu
+A00412,West,Khan,Deliver,,2-Feb-21,25-May-21,1,,,0.25,40,P.O.,112,#REF!,#REF!,#REF!,40,#REF!,#REF!,Tue,Tue
+A00413,South,Lopez,Assess,,4-Feb-21,15-Feb-21,1,,,1.5,33.48,P.O.,11,#REF!,#REF!,#REF!,33.48,#REF!,#REF!,Thu,Mon
+A00414,West,Burton,Assess,,4-Feb-21,20-Feb-21,2,,,0.25,33.86,Account,16,#REF!,#REF!,#REF!,33.86,#REF!,#REF!,Thu,Sat
+A00415,South,Lopez,Deliver,,4-Feb-21,23-Feb-21,1,,,0.25,33.96,Account,19,#REF!,#REF!,#REF!,33.96,#REF!,#REF!,Thu,Tue
+A00416,West,Khan,Assess,,4-Feb-21,5-Mar-21,1,,,0.5,36.89,C.O.D.,29,#REF!,#REF!,#REF!,36.89,#REF!,#REF!,Thu,Fri
+A00417,Southeast,Khan,Assess,,4-Feb-21,9-Mar-21,1,,,0.5,25.34,C.O.D.,33,#REF!,#REF!,#REF!,25.34,#REF!,#REF!,Thu,Tue
+A00418,Northeast,Ling,Deliver,,4-Feb-21,15-Mar-21,1,,,0.25,30,Account,39,#REF!,#REF!,#REF!,30,#REF!,#REF!,Thu,Mon
+A00419,Southeast,Burton,Assess,Yes,5-Feb-21,13-Mar-21,1,,,0.5,31.81,Account,36,#REF!,#REF!,#REF!,31.81,#REF!,#REF!,Fri,Sat
+A00420,Northwest,Khan,Replace,Yes,5-Feb-21,30-Jun-21,1,,,0.5,61.17,P.O.,145,#REF!,#REF!,#REF!,61.17,#REF!,#REF!,Fri,Wed
+A00421,West,Khan,Assess,,6-Feb-21,23-Mar-21,1,,,0.5,15.54,P.O.,45,#REF!,#REF!,#REF!,15.54,#REF!,#REF!,Sat,Tue
+A00422,West,Khan,Deliver,,6-Feb-21,31-Mar-21,1,,,0.25,72.35,Account,53,#REF!,#REF!,#REF!,72.35,#REF!,#REF!,Sat,Wed
+A00423,North,Ling,Deliver,Yes,8-Feb-21,19-Feb-21,1,,,0.25,96.71,Account,11,#REF!,#REF!,#REF!,96.71,#REF!,#REF!,Mon,Fri
+A00424,Northwest,Cartier,Replace,,8-Feb-21,16-Feb-21,1,,,0.5,207.9,C.O.D.,8,#REF!,#REF!,#REF!,207.9,#REF!,#REF!,Mon,Tue
+A00425,South,Lopez,Install,,8-Feb-21,18-Feb-21,3,,,3.5,821.87,Account,10,#REF!,#REF!,#REF!,821.87,#REF!,#REF!,Mon,Thu
+A00426,North,Ling,Repair,,8-Feb-21,22-Feb-21,2,,,1,118.56,Account,14,#REF!,#REF!,#REF!,118.56,#REF!,#REF!,Mon,Mon
+A00427,Northwest,Cartier,Assess,Yes,9-Feb-21,10-Feb-21,1,,,0.25,54.46,P.O.,1,#REF!,#REF!,#REF!,54.46,#REF!,#REF!,Tue,Wed
+A00428,North,Ling,Assess,,9-Feb-21,22-Feb-21,2,,,0.25,83.44,Account,13,#REF!,#REF!,#REF!,83.44,#REF!,#REF!,Tue,Mon
+A00429,North,Ling,Assess,,9-Feb-21,24-Feb-21,2,,,0.75,36,Account,15,#REF!,#REF!,#REF!,36,#REF!,#REF!,Tue,Wed
+A00430,South,Lopez,Replace,,9-Feb-21,13-Apr-21,1,,,0.5,53.43,Account,63,#REF!,#REF!,#REF!,53.43,#REF!,#REF!,Tue,Tue
+A00431,North,Ling,Assess,,10-Feb-21,17-Feb-21,1,,,0.5,76.79,Account,7,#REF!,#REF!,#REF!,76.79,#REF!,#REF!,Wed,Wed
+A00432,Southeast,Burton,Assess,,10-Feb-21,22-Feb-21,1,Yes,Yes,0.25,78,Warranty,12,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Mon
+A00433,Northwest,Burton,Replace,,10-Feb-21,25-Feb-21,2,,,2.75,666.44,C.O.D.,15,#REF!,#REF!,#REF!,666.44,#REF!,#REF!,Wed,Thu
+A00434,Northwest,Burton,Deliver,Yes,11-Feb-21,27-Feb-21,1,,,0.25,19.2,C.O.D.,16,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Thu,Sat
+A00435,South,Lopez,Assess,,11-Feb-21,11-Mar-21,1,,,0.75,414.54,P.O.,28,#REF!,#REF!,#REF!,414.54,#REF!,#REF!,Thu,Thu
+A00436,Southeast,Khan,Repair,,13-Feb-21,8-Apr-21,1,,,1,19.2,Account,54,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Sat,Thu
+A00437,North,Ling,Install,,15-Feb-21,18-Feb-21,2,,,1,157.86,Account,3,#REF!,#REF!,#REF!,157.86,#REF!,#REF!,Mon,Thu
+A00438,North,Ling,Assess,,15-Feb-21,24-Feb-21,2,,,0.25,160.39,Account,9,#REF!,#REF!,#REF!,160.39,#REF!,#REF!,Mon,Wed
+A00439,North,Ling,Assess,,15-Feb-21,25-Feb-21,2,,,0.25,46.85,Account,10,#REF!,#REF!,#REF!,46.85,#REF!,#REF!,Mon,Thu
+A00440,Southwest,Cartier,Replace,Yes,15-Feb-21,1-Mar-21,2,,,1.25,952.06,C.O.D.,14,#REF!,#REF!,#REF!,952.06,#REF!,#REF!,Mon,Mon
+A00441,West,Khan,Deliver,,16-Feb-21,3-Mar-21,1,,,0.25,17.42,Account,15,#REF!,#REF!,#REF!,17.42,#REF!,#REF!,Tue,Wed
+A00442,Northwest,Cartier,Replace,,16-Feb-21,8-Mar-21,2,,,0.5,202,C.O.D.,20,#REF!,#REF!,#REF!,202,#REF!,#REF!,Tue,Mon
+A00443,Southeast,Burton,Assess,,17-Feb-21,22-Feb-21,1,,,0.75,137.13,Account,5,#REF!,#REF!,#REF!,137.13,#REF!,#REF!,Wed,Mon
+A00444,West,Khan,Assess,,17-Feb-21,1-Mar-21,1,,,0.5,180,C.O.D.,12,#REF!,#REF!,#REF!,180,#REF!,#REF!,Wed,Mon
+A00445,Central,Khan,Assess,,17-Feb-21,1-Mar-21,1,,,0.25,255.34,C.O.D.,12,#REF!,#REF!,#REF!,255.34,#REF!,#REF!,Wed,Mon
+A00446,Northwest,Khan,Deliver,,17-Feb-21,2-Mar-21,1,,,0.25,48.37,P.O.,13,#REF!,#REF!,#REF!,48.37,#REF!,#REF!,Wed,Tue
+A00447,North,Ling,Deliver,,17-Feb-21,8-Mar-21,1,,,0.25,40.2,Account,19,#REF!,#REF!,#REF!,40.2,#REF!,#REF!,Wed,Mon
+A00448,Central,Cartier,Deliver,,18-Feb-21,6-Mar-21,1,,,0.25,61.5,Account,16,#REF!,#REF!,#REF!,61.5,#REF!,#REF!,Thu,Sat
+A00449,Northwest,Khan,Replace,,18-Feb-21,2-Mar-21,1,,,0.5,42.66,Account,12,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Thu,Tue
+A00450,North,Ling,Replace,,18-Feb-21,10-Mar-21,1,,,0.5,16.42,Credit,20,#REF!,#REF!,#REF!,16.42,#REF!,#REF!,Thu,Wed
+A00451,Southeast,Burton,Assess,,19-Feb-21,9-Mar-21,2,,,0.5,31.81,Account,18,#REF!,#REF!,#REF!,31.81,#REF!,#REF!,Fri,Tue
+A00452,North,Ling,Assess,,22-Feb-21,29-Mar-21,2,,,0.5,239.97,Account,35,#REF!,#REF!,#REF!,239.97,#REF!,#REF!,Mon,Mon
+A00453,Central,Burton,Repair,,23-Feb-21,2-Mar-21,1,,,1,90,C.O.D.,7,#REF!,#REF!,#REF!,90,#REF!,#REF!,Tue,Tue
+A00454,South,Lopez,Deliver,,23-Feb-21,16-Mar-21,1,,,0.25,16.25,Account,21,#REF!,#REF!,#REF!,16.25,#REF!,#REF!,Tue,Tue
+A00455,Central,Cartier,Assess,,23-Feb-21,1-Apr-21,2,,,0.25,269.4,C.O.D.,37,#REF!,#REF!,#REF!,269.4,#REF!,#REF!,Tue,Thu
+A00456,South,Lopez,Deliver,,24-Feb-21,15-Mar-21,1,,,0.25,33.5,Account,19,#REF!,#REF!,#REF!,33.5,#REF!,#REF!,Wed,Mon
+A00457,Central,Burton,Assess,,25-Feb-21,8-Mar-21,1,,,0.25,305.46,Account,11,#REF!,#REF!,#REF!,305.46,#REF!,#REF!,Thu,Mon
+A00458,South,Lopez,Replace,,25-Feb-21,15-Mar-21,1,,,0.75,50.67,P.O.,18,#REF!,#REF!,#REF!,50.67,#REF!,#REF!,Thu,Mon
+A00459,South,Lopez,Replace,,25-Feb-21,16-Mar-21,1,,,0.5,45.63,P.O.,19,#REF!,#REF!,#REF!,45.63,#REF!,#REF!,Thu,Tue
+A00460,West,Khan,Replace,,25-Feb-21,24-Mar-21,1,,,1,42.66,C.O.D.,27,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Thu,Wed
+A00461,Central,Burton,Assess,,25-Feb-21,7-Apr-21,1,,,0.25,38.7,P.O.,41,#REF!,#REF!,#REF!,38.7,#REF!,#REF!,Thu,Wed
+A00462,Central,Cartier,Assess,,1-Mar-21,15-Mar-21,1,,,0.25,164.22,Account,14,#REF!,#REF!,#REF!,164.22,#REF!,#REF!,Mon,Mon
+A00463,West,Khan,Replace,,1-Mar-21,15-Mar-21,2,,,0.5,24.38,Account,14,#REF!,#REF!,#REF!,24.38,#REF!,#REF!,Mon,Mon
+A00464,South,Lopez,Assess,,1-Mar-21,24-Mar-21,1,,,0.25,267.94,P.O.,23,#REF!,#REF!,#REF!,267.94,#REF!,#REF!,Mon,Wed
+A00465,East,Ling,Assess,,1-Mar-21,13-Apr-21,2,,,0.5,175.87,Account,43,#REF!,#REF!,#REF!,175.87,#REF!,#REF!,Mon,Tue
+A00466,Central,Cartier,Deliver,,1-Mar-21,20-Apr-21,1,Yes,Yes,0.25,81.12,Warranty,50,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Tue
+A00467,North,Ling,Assess,,1-Mar-21,29-Apr-21,2,Yes,Yes,1,9.98,Warranty,59,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Thu
+A00468,Northwest,Khan,Assess,,2-Mar-21,9-Mar-21,1,,,1.25,340.7,Account,7,#REF!,#REF!,#REF!,340.7,#REF!,#REF!,Tue,Tue
+A00469,Northwest,Khan,Replace,Yes,2-Mar-21,10-Mar-21,1,,,0.75,22.84,P.O.,8,#REF!,#REF!,#REF!,22.84,#REF!,#REF!,Tue,Wed
+A00470,South,Lopez,Replace,,2-Mar-21,11-Mar-21,1,,,0.5,3.58,Account,9,#REF!,#REF!,#REF!,3.58,#REF!,#REF!,Tue,Thu
+A00471,South,Lopez,Assess,,2-Mar-21,11-Mar-21,1,,,0.25,16.25,Account,9,#REF!,#REF!,#REF!,16.25,#REF!,#REF!,Tue,Thu
+A00472,Central,Burton,Replace,,2-Mar-21,20-Mar-21,1,,,0.75,19.2,P.O.,18,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Tue,Sat
+A00473,Southeast,Cartier,Deliver,,2-Mar-21,16-Mar-21,1,,,0.25,73.51,P.O.,14,#REF!,#REF!,#REF!,73.51,#REF!,#REF!,Tue,Tue
+A00474,Central,Burton,Assess,,2-Mar-21,23-Mar-21,1,,,0.25,144,P.O.,21,#REF!,#REF!,#REF!,144,#REF!,#REF!,Tue,Tue
+A00475,Southeast,Burton,Install,,2-Mar-21,23-Mar-21,1,,Yes,2,94.71,C.O.D.,21,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Tue
+A00476,Central,Burton,Assess,Yes,3-Mar-21,9-Mar-21,2,,,0.25,41.15,C.O.D.,6,#REF!,#REF!,#REF!,41.15,#REF!,#REF!,Wed,Tue
+A00477,East,Ling,Replace,,3-Mar-21,6-Apr-21,2,,,0.5,76.95,C.O.D.,34,#REF!,#REF!,#REF!,76.95,#REF!,#REF!,Wed,Tue
+A00478,West,Khan,Assess,,3-Mar-21,26-Apr-21,1,,,0.5,25.24,P.O.,54,#REF!,#REF!,#REF!,25.24,#REF!,#REF!,Wed,Mon
+A00479,Northwest,Burton,Assess,Yes,3-Mar-21,13-May-21,2,,,0.75,572.63,C.O.D.,71,#REF!,#REF!,#REF!,572.63,#REF!,#REF!,Wed,Thu
+A00480,South,Burton,Replace,,3-Mar-21,12-Jul-21,2,,,1.25,361.9,Account,131,#REF!,#REF!,#REF!,361.9,#REF!,#REF!,Wed,Mon
+A00481,Northwest,Cartier,Assess,,4-Mar-21,8-Mar-21,1,,,0.25,110.23,Account,4,#REF!,#REF!,#REF!,110.23,#REF!,#REF!,Thu,Mon
+A00482,South,Lopez,Assess,,4-Mar-21,15-Mar-21,1,,,0.25,33.91,Account,11,#REF!,#REF!,#REF!,33.91,#REF!,#REF!,Thu,Mon
+A00483,North,Ling,Assess,,4-Mar-21,24-Mar-21,2,,,0.25,19,Account,20,#REF!,#REF!,#REF!,19,#REF!,#REF!,Thu,Wed
+A00484,West,Khan,Install,,4-Mar-21,24-Mar-21,1,,,1.25,294.78,P.O.,20,#REF!,#REF!,#REF!,294.78,#REF!,#REF!,Thu,Wed
+A00485,East,Ling,Assess,,4-Mar-21,26-Apr-21,2,,,0.25,83.23,Account,53,#REF!,#REF!,#REF!,83.23,#REF!,#REF!,Thu,Mon
+A00486,South,Lopez,Assess,,8-Mar-21,16-Mar-21,1,,,0.75,103.08,Account,8,#REF!,#REF!,#REF!,103.08,#REF!,#REF!,Mon,Tue
+A00487,Central,Cartier,Replace,,8-Mar-21,16-Mar-21,2,,,0.5,144.31,C.O.D.,8,#REF!,#REF!,#REF!,144.31,#REF!,#REF!,Mon,Tue
+A00488,North,Ling,Assess,,8-Mar-21,25-Mar-21,2,,,0.25,39,Account,17,#REF!,#REF!,#REF!,39,#REF!,#REF!,Mon,Thu
+A00489,Central,Burton,Install,,8-Mar-21,27-Mar-21,2,,,2.5,224,C.O.D.,19,#REF!,#REF!,#REF!,224,#REF!,#REF!,Mon,Sat
+A00490,South,Lopez,Assess,,8-Mar-21,12-Jun-21,1,,,0.5,475.54,Account,96,#REF!,#REF!,#REF!,475.54,#REF!,#REF!,Mon,Sat
+A00491,Central,Khan,Assess,,9-Mar-21,16-Mar-21,1,,,1,46.04,C.O.D.,7,#REF!,#REF!,#REF!,46.04,#REF!,#REF!,Tue,Tue
+A00492,South,Lopez,Assess,,9-Mar-21,16-Mar-21,1,,,0.75,294.55,Account,7,#REF!,#REF!,#REF!,294.55,#REF!,#REF!,Tue,Tue
+A00493,West,Khan,Replace,,9-Mar-21,25-May-21,2,,,1,28.5,P.O.,77,#REF!,#REF!,#REF!,28.5,#REF!,#REF!,Tue,Tue
+A00494,East,Ling,Install,,10-Mar-21,12-Mar-21,2,,,1.5,50,Account,2,#REF!,#REF!,#REF!,50,#REF!,#REF!,Wed,Fri
+A00495,Southeast,Khan,Assess,,10-Mar-21,10-Mar-21,1,,,0.5,10,Account, -   ,#REF!,#REF!,#REF!,10,#REF!,#REF!,Wed,Wed
+A00496,North,Ling,Install,Yes,10-Mar-21,17-Mar-21,2,,,1.5,29.33,Account,7,#REF!,#REF!,#REF!,29.33,#REF!,#REF!,Wed,Wed
+A00497,South,Burton,Assess,Yes,10-Mar-21,17-Mar-21,1,,Yes,0.25,19.2,C.O.D.,7,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Wed
+A00498,West,Khan,Replace,,10-Mar-21,17-Mar-21,2,,,0.5,24.19,C.O.D.,7,#REF!,#REF!,#REF!,24.19,#REF!,#REF!,Wed,Wed
+A00499,East,Ling,Assess,,10-Mar-21,18-Mar-21,2,,,0.5,159,Account,8,#REF!,#REF!,#REF!,159,#REF!,#REF!,Wed,Thu
+A00500,Southeast,Burton,Assess,,10-Mar-21,24-Mar-21,2,,Yes,0.5,411.1,C.O.D.,14,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Wed
+A00501,North,Ling,Assess,,10-Mar-21,8-Apr-21,1,,,0.75,58.36,Account,29,#REF!,#REF!,#REF!,58.36,#REF!,#REF!,Wed,Thu
+A00502,Southeast,Burton,Repair,,10-Mar-21,20-Apr-21,1,,Yes,1.75,98.55,C.O.D.,41,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00503,East,Ling,Repair,,10-Mar-21,21-Apr-21,2,Yes,Yes,2,145.15,Warranty,42,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Wed
+A00504,Southeast,Burton,Replace,,11-Mar-21,11-Mar-21,2,,,0.75,125.73,Account, -   ,#REF!,#REF!,#REF!,125.73,#REF!,#REF!,Thu,Thu
+A00505,Northwest,Khan,Assess,Yes,11-Mar-21,1-Jun-21,1,,,0.25,204.28,C.O.D.,82,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Thu,Tue
+A00506,Central,Cartier,Deliver,,11-Mar-21,17-Jul-21,1,,,0.25,120,Account,128,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Sat
+A00507,North,Ling,Assess,,15-Mar-21,27-Mar-21,2,,,1,203,Account,12,#REF!,#REF!,#REF!,203,#REF!,#REF!,Mon,Sat
+A00508,East,Ling,Assess,,15-Mar-21,23-Mar-21,2,Yes,Yes,0.75,222.33,Warranty,8,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Tue
+A00509,Northwest,Cartier,Install,,15-Mar-21,24-Mar-21,2,,,4.75,56.4,Account,9,#REF!,#REF!,#REF!,56.4,#REF!,#REF!,Mon,Wed
+A00510,North,Ling,Install,,15-Mar-21,29-Mar-21,2,,Yes,1,60,C.O.D.,14,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Mon
+A00511,North,Ling,Assess,,15-Mar-21,31-Mar-21,1,,,0.75,21.33,Account,16,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Wed
+A00512,North,Ling,Deliver,,15-Mar-21,30-Mar-21,1,,,0.25,204.28,Account,15,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Mon,Tue
+A00513,Central,Burton,Repair,,15-Mar-21,7-Apr-21,1,,Yes,1.5,95.04,C.O.D.,23,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Wed
+A00514,Northwest,Cartier,Deliver,Yes,15-Mar-21,19-Apr-21,1,,,0.25,23.4,Account,35,#REF!,#REF!,#REF!,23.4,#REF!,#REF!,Mon,Mon
+A00515,Central,Ling,Repair,,15-Mar-21,8-May-21,2,Yes,Yes,2.25,934.45,Warranty,54,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Sat
+A00516,West,Khan,Replace,,16-Mar-21,17-Mar-21,1,,,0.5,18,P.O.,1,#REF!,#REF!,#REF!,18,#REF!,#REF!,Tue,Wed
+A00517,Southeast,Cartier,Assess,Yes,16-Mar-21,25-Mar-21,1,,,0.25,134.85,C.O.D.,9,#REF!,#REF!,#REF!,134.85,#REF!,#REF!,Tue,Thu
+A00518,Northwest,Cartier,Assess,Yes,16-Mar-21,23-Mar-21,1,,,0.5,61.26,Account,7,#REF!,#REF!,#REF!,61.26,#REF!,#REF!,Tue,Tue
+A00519,Central,Burton,Replace,,16-Mar-21,2-Apr-21,2,,,4.5,658.68,Account,17,#REF!,#REF!,#REF!,658.68,#REF!,#REF!,Tue,Fri
+A00520,Central,Burton,Repair,,16-Mar-21,3-Apr-21,2,,,8,"1,468.52",Account,18,#REF!,#REF!,#REF!,"1,468.52",#REF!,#REF!,Tue,Sat
+A00521,South,Lopez,Replace,,16-Mar-21,31-Mar-21,1,,,0.75,82.59,Account,15,#REF!,#REF!,#REF!,82.59,#REF!,#REF!,Tue,Wed
+A00522,Northeast,Ling,Install,,16-Mar-21,16-Apr-21,2,,Yes,2.75,340.55,C.O.D.,31,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Fri
+A00523,Southeast,Khan,Assess,,16-Mar-21,6-May-21,1,,,0.25,72.06,C.O.D.,51,#REF!,#REF!,#REF!,72.06,#REF!,#REF!,Tue,Thu
+A00524,Northeast,Burton,Assess,,17-Mar-21,10-Apr-21,1,,,0.5,48.99,Account,24,#REF!,#REF!,#REF!,48.99,#REF!,#REF!,Wed,Sat
+A00525,North,Ling,Deliver,,17-Mar-21,10-Apr-21,1,,,0.25,15.4,Account,24,#REF!,#REF!,#REF!,15.4,#REF!,#REF!,Wed,Sat
+A00526,East,Khan,Replace,,19-Mar-21,6-May-21,1,,,0.75,204.1,C.O.D.,48,#REF!,#REF!,#REF!,204.1,#REF!,#REF!,Fri,Thu
+A00527,North,Ling,Assess,,20-Mar-21,10-Apr-21,1,,,0.25,12.63,Account,21,#REF!,#REF!,#REF!,12.63,#REF!,#REF!,Sat,Sat
+A00528,Northeast,Ling,Assess,,20-Mar-21,13-Apr-21,1,,,0.25,15.24,P.O.,24,#REF!,#REF!,#REF!,15.24,#REF!,#REF!,Sat,Tue
+A00529,West,Khan,Assess,,22-Mar-21,31-Mar-21,1,Yes,Yes,0.5,50,Warranty,9,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Wed
+A00530,South,Burton,Repair,,22-Mar-21,20-Apr-21,1,,Yes,1.5,272.55,C.O.D.,29,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Tue
+A00531,Northwest,Cartier,Replace,,22-Mar-21,20-Apr-21,2,,,6.25,27,C.O.D.,29,#REF!,#REF!,#REF!,27,#REF!,#REF!,Mon,Tue
+A00532,Southeast,Khan,Assess,,22-Mar-21,22-Apr-21,1,Yes,Yes,0.25,65.43,Warranty,31,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Thu
+A00533,North,Ling,Assess,,22-Mar-21,6-May-21,2,,,0.5,85.32,Account,45,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Mon,Thu
+A00534,South,Burton,Install,,22-Mar-21,10-May-21,2,,Yes,1.5,572.17,C.O.D.,49,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Mon
+A00535,South,Burton,Repair,,22-Mar-21,10-May-21,2,,Yes,4.5,937.98,C.O.D.,49,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Mon
+A00536,Central,Burton,Replace,,23-Mar-21,23-Mar-21,1,Yes,Yes,0.5,165,Warranty, -   ,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Tue
+A00537,North,Ling,Assess,,23-Mar-21,3-Apr-21,2,Yes,Yes,0.25,55.3,Warranty,11,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Sat
+A00538,Southeast,Cartier,Replace,,23-Mar-21,10-Apr-21,1,,Yes,2.75,534.57,C.O.D.,18,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Sat
+A00539,Central,Burton,Assess,,23-Mar-21,8-Apr-21,1,,Yes,1,448.26,C.O.D.,16,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Thu
+A00540,Southwest,Burton,Assess,,23-Mar-21,14-Apr-21,2,,,1,123.21,C.O.D.,22,#REF!,#REF!,#REF!,123.21,#REF!,#REF!,Tue,Wed
+A00541,Central,Khan,Deliver,,23-Mar-21,12-Apr-21,1,,,0.25,77.29,C.O.D.,20,#REF!,#REF!,#REF!,77.29,#REF!,#REF!,Tue,Mon
+A00542,North,Ling,Install,,23-Mar-21,12-Apr-21,2,Yes,Yes,1,360,Warranty,20,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Mon
+A00543,Northwest,Burton,Repair,,23-Mar-21,13-May-21,2,,,3.5,653,C.O.D.,51,#REF!,#REF!,#REF!,653,#REF!,#REF!,Tue,Thu
+A00544,South,Lopez,Install,,24-Mar-21,6-Apr-21,1,,,1.5,118.3,Account,13,#REF!,#REF!,#REF!,118.3,#REF!,#REF!,Wed,Tue
+A00545,Southwest,Ling,Repair,,24-Mar-21,11-Jun-21,2,,Yes,2.5,"1,480.36",C.O.D.,79,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Fri
+A00546,East,Ling,Repair,,25-Mar-21,11-May-21,2,,,2.5,837.16,C.O.D.,47,#REF!,#REF!,#REF!,837.16,#REF!,#REF!,Thu,Tue
+A00547,North,Ling,Repair,,27-Mar-21,30-Jun-21,2,,,1.75,242.64,C.O.D.,95,#REF!,#REF!,#REF!,242.64,#REF!,#REF!,Sat,Wed
+A00548,Southeast,Cartier,Repair,,29-Mar-21,7-Apr-21,1,,Yes,2,262.03,C.O.D.,9,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Wed
+A00549,Southeast,Khan,Install,,29-Mar-21,28-Jun-21,1,,,1.75,473.6,C.O.D.,91,#REF!,#REF!,#REF!,473.6,#REF!,#REF!,Mon,Mon
+A00550,Central,Khan,Repair,,30-Mar-21,12-May-21,1,,,2.75,708.02,C.O.D.,43,#REF!,#REF!,#REF!,708.02,#REF!,#REF!,Tue,Wed
+A00551,Central,Burton,Replace,,31-Mar-21,6-Apr-21,1,,,0.5,13.32,C.O.D.,6,#REF!,#REF!,#REF!,13.32,#REF!,#REF!,Wed,Tue
+A00552,Southwest,Burton,Replace,Yes,31-Mar-21,21-Apr-21,1,,,0.75,51.29,C.O.D.,21,#REF!,#REF!,#REF!,51.29,#REF!,#REF!,Wed,Wed
+A00553,North,Ling,Deliver,,1-Apr-21,16-Apr-21,1,,,0.25,89.5,Account,15,#REF!,#REF!,#REF!,89.5,#REF!,#REF!,Thu,Fri
+A00554,Northwest,Burton,Assess,,1-Apr-21,12-Apr-21,1,,,0.25,74.53,P.O.,11,#REF!,#REF!,#REF!,74.53,#REF!,#REF!,Thu,Mon
+A00555,North,Ling,Repair,,1-Apr-21,12-Apr-21,2,,,1.5,64,Account,11,#REF!,#REF!,#REF!,64,#REF!,#REF!,Thu,Mon
+A00556,Northwest,Khan,Assess,Yes,1-Apr-21,14-Apr-21,1,,,0.25,23.4,Account,13,#REF!,#REF!,#REF!,23.4,#REF!,#REF!,Thu,Wed
+A00557,East,Ling,Assess,,1-Apr-21,26-Apr-21,2,,,0.25,17.13,Account,25,#REF!,#REF!,#REF!,17.13,#REF!,#REF!,Thu,Mon
+A00558,West,Lopez,Assess,,1-Apr-21,29-Apr-21,1,,,0.5,149.5,P.O.,28,#REF!,#REF!,#REF!,149.5,#REF!,#REF!,Thu,Thu
+A00559,Northwest,Burton,Assess,,2-Apr-21,26-Apr-21,1,,,0.5,163.2,P.O.,24,#REF!,#REF!,#REF!,163.2,#REF!,#REF!,Fri,Mon
+A00560,North,Ling,Assess,,3-Apr-21,15-Apr-21,2,,,0.25,14.76,Account,12,#REF!,#REF!,#REF!,14.76,#REF!,#REF!,Sat,Thu
+A00561,Southeast,Cartier,Assess,,3-Apr-21,27-Apr-21,1,,,0.75,21.33,Account,24,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Sat,Tue
+A00562,Northwest,Burton,Assess,,3-Apr-21,11-May-21,2,,Yes,1,304.51,C.O.D.,38,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Sat,Tue
+A00563,Northeast,Khan,Assess,Yes,3-Apr-21,11-May-21,1,,,0.5,36.34,Account,38,#REF!,#REF!,#REF!,36.34,#REF!,#REF!,Sat,Tue
+A00564,East,Ling,Assess,,5-Apr-21,14-Apr-21,2,,,0.5,21.33,Account,9,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Wed
+A00565,North,Ling,Replace,,5-Apr-21,23-Apr-21,2,,,0.5,392.02,C.O.D.,18,#REF!,#REF!,#REF!,392.02,#REF!,#REF!,Mon,Fri
+A00566,North,Ling,Assess,,5-Apr-21,29-Apr-21,1,,,0.25,151.79,Account,24,#REF!,#REF!,#REF!,151.79,#REF!,#REF!,Mon,Thu
+A00567,Northwest,Cartier,Assess,,5-Apr-21,12-May-21,1,,,0.25,30.11,Account,37,#REF!,#REF!,#REF!,30.11,#REF!,#REF!,Mon,Wed
+A00568,East,Ling,Replace,,5-Apr-21,17-May-21,2,,,0.75,13.36,C.O.D.,42,#REF!,#REF!,#REF!,13.36,#REF!,#REF!,Mon,Mon
+A00569,Central,Cartier,Repair,,5-Apr-21,15-Jun-21,1,,,4.25,21.33,Account,71,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Tue
+A00570,East,Ling,Assess,Yes,6-Apr-21,7-May-21,1,,,0.75,21.33,C.O.D.,31,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Tue,Fri
+A00571,East,Ling,Deliver,Yes,6-Apr-21,10-May-21,1,,,0.25,21.6,Account,34,#REF!,#REF!,#REF!,21.6,#REF!,#REF!,Tue,Mon
+A00572,Southeast,Burton,Deliver,Yes,6-Apr-21,20-May-21,1,,,0.25,108.96,C.O.D.,44,#REF!,#REF!,#REF!,108.96,#REF!,#REF!,Tue,Thu
+A00573,West,Khan,Deliver,,6-Apr-21,25-May-21,1,,,0.25,42.66,P.O.,49,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Tue,Tue
+A00574,Southwest,Khan,Assess,,6-Apr-21,27-May-21,1,,,1.75,342.6,C.O.D.,51,#REF!,#REF!,#REF!,342.6,#REF!,#REF!,Tue,Thu
+A00575,Northeast,Khan,Replace,,6-Apr-21,29-Jun-21,2,,,0.75,40,P.O.,84,#REF!,#REF!,#REF!,40,#REF!,#REF!,Tue,Tue
+A00576,North,Ling,Deliver,Yes,7-Apr-21,14-Apr-21,1,,,0.25,259.2,C.O.D.,7,#REF!,#REF!,#REF!,259.2,#REF!,#REF!,Wed,Wed
+A00577,North,Ling,Assess,,7-Apr-21,28-Apr-21,2,,,0.25,26.58,Account,21,#REF!,#REF!,#REF!,26.58,#REF!,#REF!,Wed,Wed
+A00578,South,Cartier,Assess,,7-Apr-21,29-Apr-21,1,,,0.25,52.02,Account,22,#REF!,#REF!,#REF!,52.02,#REF!,#REF!,Wed,Thu
+A00579,North,Ling,Replace,,7-Apr-21,29-Apr-21,2,Yes,Yes,0.5,181.16,Warranty,22,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Thu
+A00580,Central,Khan,Repair,,7-Apr-21,11-May-21,2,,,2,"2,050.60",Account,34,#REF!,#REF!,#REF!,"2,050.60",#REF!,#REF!,Wed,Tue
+A00581,Northeast,Ling,Assess,,7-Apr-21,,2,,Yes,,"1,587.25",C.O.D.,  ,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Sat
+A00582,North,Ling,Replace,,8-Apr-21,22-Apr-21,2,,,0.75,158,Account,14,#REF!,#REF!,#REF!,158,#REF!,#REF!,Thu,Thu
+A00583,Central,Khan,Deliver,,8-Apr-21,28-Apr-21,1,Yes,Yes,0.25,30,Warranty,20,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Wed
+A00584,Northeast,Burton,Repair,,8-Apr-21,29-Apr-21,2,,Yes,1,54.28,C.O.D.,21,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Thu
+A00585,North,Ling,Deliver,Yes,8-Apr-21,3-May-21,1,,,0.25,85.32,C.O.D.,25,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Thu,Mon
+A00586,Northeast,Ling,Assess,,8-Apr-21,13-May-21,2,,,0.25,30,C.O.D.,35,#REF!,#REF!,#REF!,30,#REF!,#REF!,Thu,Thu
+A00587,Northwest,Cartier,Assess,Yes,8-Apr-21,21-May-21,2,,,0.25,2.54,Account,43,#REF!,#REF!,#REF!,2.54,#REF!,#REF!,Thu,Fri
+A00588,North,Ling,Deliver,,8-Apr-21,8-Jun-21,1,,,0.25,66.86,Account,61,#REF!,#REF!,#REF!,66.86,#REF!,#REF!,Thu,Tue
+A00589,North,Ling,Replace,,10-Apr-21,21-Apr-21,2,,,0.75,108.93,Account,11,#REF!,#REF!,#REF!,108.93,#REF!,#REF!,Sat,Wed
+A00590,Southeast,Cartier,Repair,,10-Apr-21,10-May-21,1,Yes,Yes,4.75,397.36,Warranty,30,#REF!,#REF!, -   , -   ,#REF!, -   ,Sat,Mon
+A00591,Southeast,Cartier,Assess,,12-Apr-21,21-Apr-21,1,,,0.25,156.4,Account,9,#REF!,#REF!,#REF!,156.4,#REF!,#REF!,Mon,Wed
+A00592,Central,Cartier,Assess,,12-Apr-21,21-Apr-21,2,,Yes,0.5,176.22,C.O.D.,9,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Wed
+A00593,North,Ling,Deliver,,12-Apr-21,28-Apr-21,1,,,0.25,4.99,C.O.D.,16,#REF!,#REF!,#REF!,4.99,#REF!,#REF!,Mon,Wed
+A00594,Northwest,Burton,Deliver,,12-Apr-21,3-May-21,1,,,0.25,83.46,Account,21,#REF!,#REF!,#REF!,83.46,#REF!,#REF!,Mon,Mon
+A00595,Central,Burton,Install,,12-Apr-21,4-May-21,2,,,2.25,52,Account,22,#REF!,#REF!,#REF!,52,#REF!,#REF!,Mon,Tue
+A00596,South,Lopez,Assess,,12-Apr-21,4-May-21,1,,,0.5,743.18,P.O.,22,#REF!,#REF!,#REF!,743.18,#REF!,#REF!,Mon,Tue
+A00597,Central,Cartier,Replace,,12-Apr-21,16-Jun-21,1,,,0.5,144,C.O.D.,65,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Wed
+A00598,North,Ling,Deliver,,13-Apr-21,28-Apr-21,1,Yes,Yes,0.25,38.12,Warranty,15,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Wed
+A00599,Central,Burton,Deliver,,13-Apr-21,29-Apr-21,1,Yes,Yes,0.25,25,Warranty,16,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Thu
+A00600,North,Ling,Assess,,13-Apr-21,29-Apr-21,2,,,0.25,175,Account,16,#REF!,#REF!,#REF!,175,#REF!,#REF!,Tue,Thu
+A00601,South,Lopez,Assess,,13-Apr-21,4-May-21,1,,,0.25,6.94,Account,21,#REF!,#REF!,#REF!,6.94,#REF!,#REF!,Tue,Tue
+A00602,South,Burton,Install,,13-Apr-21,12-May-21,3,,,3.25,640.42,C.O.D.,29,#REF!,#REF!,#REF!,640.42,#REF!,#REF!,Tue,Wed
+A00603,Southeast,Khan,Assess,,13-Apr-21,13-May-21,1,,,0.25,86.28,Account,30,#REF!,#REF!,#REF!,86.28,#REF!,#REF!,Tue,Thu
+A00604,Northwest,Cartier,Assess,,13-Apr-21,21-May-21,1,,Yes,0.25,103.18,C.O.D.,38,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Fri
+A00605,East,Ling,Repair,,13-Apr-21,17-May-21,2,,,1,464.4,Credit,34,#REF!,#REF!,#REF!,464.4,#REF!,#REF!,Tue,Mon
+A00606,Central,Cartier,Assess,,13-Apr-21,15-Jun-21,1,,,1,406.66,C.O.D.,63,#REF!,#REF!,#REF!,406.66,#REF!,#REF!,Tue,Tue
+A00607,Northwest,Cartier,Replace,,14-Apr-21,23-Apr-21,1,,,0.5,21.33,Account,9,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Wed,Fri
+A00608,West,Khan,Repair,,14-Apr-21,26-Apr-21,1,,,1.5,15.15,Account,12,#REF!,#REF!,#REF!,15.15,#REF!,#REF!,Wed,Mon
+A00609,Southeast,Khan,Assess,Yes,14-Apr-21,27-Apr-21,1,,Yes,0.25,96.05,C.O.D.,13,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00610,Northwest,Khan,Deliver,Yes,14-Apr-21,27-Apr-21,1,,,0.25,127.4,C.O.D.,13,#REF!,#REF!,#REF!,127.4,#REF!,#REF!,Wed,Tue
+A00611,South,Lopez,Replace,,14-Apr-21,5-May-21,1,,,0.5,95.47,P.O.,21,#REF!,#REF!,#REF!,95.47,#REF!,#REF!,Wed,Wed
+A00612,Central,Cartier,Assess,Yes,14-Apr-21,5-May-21,1,,,0.25,55.65,Account,21,#REF!,#REF!,#REF!,55.65,#REF!,#REF!,Wed,Wed
+A00613,West,Khan,Assess,Yes,14-Apr-21,6-May-21,1,,Yes,0.5,22.3,C.O.D.,22,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Thu
+A00614,Northwest,Khan,Assess,,14-Apr-21,12-May-21,1,,,0.5,148.1,Account,28,#REF!,#REF!,#REF!,148.1,#REF!,#REF!,Wed,Wed
+A00615,South,Burton,Deliver,,14-Apr-21,17-May-21,1,,,0.25,18,P.O.,33,#REF!,#REF!,#REF!,18,#REF!,#REF!,Wed,Mon
+A00616,Northwest,Cartier,Assess,Yes,14-Apr-21,17-May-21,1,,Yes,0.25,54.18,C.O.D.,33,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00617,West,Khan,Replace,,14-Apr-21,31-May-21,2,,,0.75,197.94,C.O.D.,47,#REF!,#REF!,#REF!,197.94,#REF!,#REF!,Wed,Mon
+A00618,Southeast,Burton,Deliver,,14-Apr-21,17-Jun-21,1,Yes,Yes,0.25,111.91,Warranty,64,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Thu
+A00619,North,Ling,Deliver,,15-Apr-21,29-Apr-21,1,,,0.25,118.07,Account,14,#REF!,#REF!,#REF!,118.07,#REF!,#REF!,Thu,Thu
+A00620,South,Lopez,Replace,,15-Apr-21,27-Apr-21,1,,,0.5,48.75,Account,12,#REF!,#REF!,#REF!,48.75,#REF!,#REF!,Thu,Tue
+A00621,North,Ling,Assess,,15-Apr-21,27-Apr-21,1,Yes,Yes,0.25,144,Warranty,12,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Tue
+A00622,Southeast,Khan,Deliver,,15-Apr-21,6-May-21,1,,Yes,0.25,50.6,C.O.D.,21,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Thu
+A00623,Northwest,Burton,Deliver,,15-Apr-21,7-May-21,1,Yes,Yes,0.25,90.28,Warranty,22,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Fri
+A00624,Central,Cartier,Replace,Yes,15-Apr-21,6-May-21,1,,,0.5,25,C.O.D.,21,#REF!,#REF!,#REF!,25,#REF!,#REF!,Thu,Thu
+A00625,Southeast,Burton,Deliver,,15-Apr-21,15-May-21,1,,,0.25,34.08,P.O.,30,#REF!,#REF!,#REF!,34.08,#REF!,#REF!,Thu,Sat
+A00626,Northwest,Cartier,Assess,,15-Apr-21,17-May-21,1,,,0.25,146.76,P.O.,32,#REF!,#REF!,#REF!,146.76,#REF!,#REF!,Thu,Mon
+A00627,Northwest,Cartier,Install,,15-Apr-21,20-May-21,1,Yes,Yes,1.25,221.43,Warranty,35,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Thu
+A00628,Northwest,Cartier,Assess,,15-Apr-21,26-May-21,1,,Yes,1,137.2,C.O.D.,41,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Wed
+A00629,Central,Khan,Install,Yes,15-Apr-21,14-Jun-21,1,,,2.5,69.03,C.O.D.,60,#REF!,#REF!,#REF!,69.03,#REF!,#REF!,Thu,Mon
+A00630,Northeast,Ling,Assess,,15-Apr-21,17-Jun-21,2,,,0.25,54,Credit,63,#REF!,#REF!,#REF!,54,#REF!,#REF!,Thu,Thu
+A00631,Southeast,Khan,Deliver,,17-Apr-21,8-May-21,1,,Yes,0.25,75.18,C.O.D.,21,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Sat,Sat
+A00632,North,Ling,Assess,Yes,17-Apr-21,10-May-21,2,,,0.75,262.11,Account,23,#REF!,#REF!,#REF!,262.11,#REF!,#REF!,Sat,Mon
+A00633,Northeast,Ling,Deliver,,19-Apr-21,1-May-21,1,,,0.25,61.26,C.O.D.,12,#REF!,#REF!,#REF!,61.26,#REF!,#REF!,Mon,Sat
+A00634,Southeast,Cartier,Repair,,19-Apr-21,1-May-21,1,,Yes,1,197.58,C.O.D.,12,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Sat
+A00635,North,Ling,Deliver,,19-Apr-21,27-Apr-21,2,,,0.25,158.95,Account,8,#REF!,#REF!,#REF!,158.95,#REF!,#REF!,Mon,Tue
+A00636,South,Lopez,Replace,,19-Apr-21,28-Apr-21,1,,,0.75,15.43,Account,9,#REF!,#REF!,#REF!,15.43,#REF!,#REF!,Mon,Wed
+A00637,Central,Cartier,Deliver,Yes,19-Apr-21,6-May-21,1,,,0.25,72.35,C.O.D.,17,#REF!,#REF!,#REF!,72.35,#REF!,#REF!,Mon,Thu
+A00638,Northwest,Khan,Replace,,19-Apr-21,12-May-21,1,,,0.5,7.31,C.O.D.,23,#REF!,#REF!,#REF!,7.31,#REF!,#REF!,Mon,Wed
+A00639,Central,Khan,Deliver,,19-Apr-21,21-May-21,1,,,0.25,120,C.O.D.,32,#REF!,#REF!,#REF!,120,#REF!,#REF!,Mon,Fri
+A00640,Southeast,Burton,Assess,,19-Apr-21,17-May-21,2,,,0.5,173.3,C.O.D.,28,#REF!,#REF!,#REF!,173.3,#REF!,#REF!,Mon,Mon
+A00641,North,Ling,Assess,,19-Apr-21,25-May-21,1,,,0.25,24.63,C.O.D.,36,#REF!,#REF!,#REF!,24.63,#REF!,#REF!,Mon,Tue
+A00642,Southwest,Ling,Install,Yes,19-Apr-21,7-Jun-21,2,,Yes,7.5,"1,514.78",C.O.D.,49,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Mon
+A00643,North,Ling,Replace,,19-Apr-21,30-Jun-21,2,,,0.75,106.65,C.O.D.,72,#REF!,#REF!,#REF!,106.65,#REF!,#REF!,Mon,Wed
+A00644,Southeast,Cartier,Repair,,19-Apr-21,,2,,,,427.83,C.O.D.,  ,#REF!,#REF!,#REF!,427.83,#REF!,#REF!,Mon,Sat
+A00645,Northwest,Khan,Assess,,20-Apr-21,11-May-21,1,,,0.25,84.7,C.O.D.,21,#REF!,#REF!,#REF!,84.7,#REF!,#REF!,Tue,Tue
+A00646,Southeast,Burton,Assess,,20-Apr-21,10-May-21,1,,,0.25,106.54,C.O.D.,20,#REF!,#REF!,#REF!,106.54,#REF!,#REF!,Tue,Mon
+A00647,Central,Khan,Deliver,,20-Apr-21,13-May-21,1,,,0.25,108.69,C.O.D.,23,#REF!,#REF!,#REF!,108.69,#REF!,#REF!,Tue,Thu
+A00648,Central,Khan,Replace,,20-Apr-21,22-May-21,1,,,1.25,405.55,C.O.D.,32,#REF!,#REF!,#REF!,405.55,#REF!,#REF!,Tue,Sat
+A00649,North,Ling,Deliver,,20-Apr-21,26-May-21,2,,,0.25,240,Account,36,#REF!,#REF!,#REF!,240,#REF!,#REF!,Tue,Wed
+A00650,Northwest,Burton,Assess,,20-Apr-21,31-May-21,2,,,1,641.77,C.O.D.,41,#REF!,#REF!,#REF!,641.77,#REF!,#REF!,Tue,Mon
+A00651,Southeast,Cartier,Replace,,20-Apr-21,29-Jun-21,1,,,1,89.45,C.O.D.,70,#REF!,#REF!,#REF!,89.45,#REF!,#REF!,Tue,Tue
+A00652,East,Ling,Deliver,,20-Apr-21,5-Jul-21,1,,,0.25,2,C.O.D.,76,#REF!,#REF!,#REF!,2,#REF!,#REF!,Tue,Mon
+A00653,South,Cartier,Assess,,21-Apr-21,4-May-21,1,Yes,Yes,0.25,248.09,Warranty,13,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Tue
+A00654,East,Ling,Assess,,21-Apr-21,5-May-21,2,,,0.25,180,Account,14,#REF!,#REF!,#REF!,180,#REF!,#REF!,Wed,Wed
+A00655,Southeast,Khan,Deliver,,21-Apr-21,14-Jun-21,1,,,0.25,45.94,C.O.D.,54,#REF!,#REF!,#REF!,45.94,#REF!,#REF!,Wed,Mon
+A00656,Southeast,Burton,Assess,,21-Apr-21,17-Jun-21,2,,Yes,0.25,125.76,C.O.D.,57,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Thu
+A00657,Southeast,Cartier,Assess,,21-Apr-21,5-Jul-21,2,,,0.25,92.44,C.O.D.,75,#REF!,#REF!,#REF!,92.44,#REF!,#REF!,Wed,Mon
+A00658,South,Burton,Replace,,21-Apr-21,5-Jul-21,2,,,1,183.54,Account,75,#REF!,#REF!,#REF!,183.54,#REF!,#REF!,Wed,Mon
+A00659,South,Burton,Replace,,21-Apr-21,5-Jul-21,2,,Yes,1,244.72,C.O.D.,75,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00660,South,Burton,Replace,,21-Apr-21,5-Jul-21,2,,,1,305.17,Account,75,#REF!,#REF!,#REF!,305.17,#REF!,#REF!,Wed,Mon
+A00661,South,Burton,Assess,,21-Apr-21,5-Jul-21,2,Yes,Yes,0.5,747.11,Warranty,75,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Mon
+A00662,South,Burton,Install,,21-Apr-21,5-Jul-21,2,,Yes,2.25,"1,499.39",C.O.D.,75,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00663,South,Burton,Deliver,,21-Apr-21,6-Jul-21,1,,Yes,0.25,119.18,C.O.D.,76,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00664,South,Burton,Install,,21-Apr-21,6-Jul-21,2,,Yes,1,248.73,C.O.D.,76,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00665,South,Burton,Replace,,21-Apr-21,6-Jul-21,2,Yes,Yes,1.75,291.9,Warranty,76,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Tue
+A00666,South,Burton,Deliver,,21-Apr-21,6-Jul-21,2,,Yes,0.25,371.17,C.O.D.,76,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00667,South,Burton,Replace,,21-Apr-21,6-Jul-21,2,,Yes,0.75,380.35,C.O.D.,76,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00668,South,Burton,Repair,,21-Apr-21,6-Jul-21,2,,Yes,1,423.08,C.O.D.,76,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Tue
+A00669,South,Burton,Install,,21-Apr-21,6-Jul-21,2,,,1.75,395.08,Account,76,#REF!,#REF!,#REF!,395.08,#REF!,#REF!,Wed,Tue
+A00670,South,Burton,Assess,,21-Apr-21,6-Jul-21,2,Yes,Yes,0.5,442.19,Warranty,76,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Tue
+A00671,North,Khan,Assess,,21-Apr-21,12-Jul-21,2,,,0.25,54,P.O.,82,#REF!,#REF!,#REF!,54,#REF!,#REF!,Wed,Mon
+A00672,North,Khan,Replace,,21-Apr-21,12-Jul-21,2,,,0.5,61.99,C.O.D.,82,#REF!,#REF!,#REF!,61.99,#REF!,#REF!,Wed,Mon
+A00673,North,Ling,Deliver,,21-Apr-21,12-Jul-21,1,,,0.25,120,Account,82,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Mon
+A00674,South,Burton,Replace,,21-Apr-21,12-Jul-21,2,,,0.5,122.36,Account,82,#REF!,#REF!,#REF!,122.36,#REF!,#REF!,Wed,Mon
+A00675,South,Burton,Assess,,21-Apr-21,12-Jul-21,2,,,0.5,401.17,Account,82,#REF!,#REF!,#REF!,401.17,#REF!,#REF!,Wed,Mon
+A00676,North,Khan,Install,,21-Apr-21,12-Jul-21,2,,,1,427.88,C.O.D.,82,#REF!,#REF!,#REF!,427.88,#REF!,#REF!,Wed,Mon
+A00677,East,Ling,Assess,Yes,21-Apr-21,13-Jul-21,1,,,0.25,85.32,Account,83,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Wed,Tue
+A00678,West,Khan,Assess,,21-Apr-21,13-Jul-21,2,,,0.5,107.4,C.O.D.,83,#REF!,#REF!,#REF!,107.4,#REF!,#REF!,Wed,Tue
+A00679,South,Burton,Assess,,21-Apr-21,13-Jul-21,2,,,0.25,108.36,Account,83,#REF!,#REF!,#REF!,108.36,#REF!,#REF!,Wed,Tue
+A00680,East,Ling,Deliver,,21-Apr-21,13-Jul-21,1,,,0.25,120,C.O.D.,83,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Tue
+A00681,South,Burton,Install,,21-Apr-21,13-Jul-21,2,,,1.75,416.85,Account,83,#REF!,#REF!,#REF!,416.85,#REF!,#REF!,Wed,Tue
+A00682,South,Burton,Install,,21-Apr-21,13-Jul-21,2,,,1.25,449.04,Account,83,#REF!,#REF!,#REF!,449.04,#REF!,#REF!,Wed,Tue
+A00683,North,Khan,Assess,,21-Apr-21,13-Jul-21,2,,,1,463.71,C.O.D.,83,#REF!,#REF!,#REF!,463.71,#REF!,#REF!,Wed,Tue
+A00684,South,Burton,Install,,21-Apr-21,13-Jul-21,2,,,1.25,488.43,Account,83,#REF!,#REF!,#REF!,488.43,#REF!,#REF!,Wed,Tue
+A00685,Central,Burton,Assess,,22-Apr-21,14-May-21,1,,,1,65.95,C.O.D.,22,#REF!,#REF!,#REF!,65.95,#REF!,#REF!,Thu,Fri
+A00686,North,Ling,Deliver,,22-Apr-21,15-May-21,1,,,0.25,109.23,Account,23,#REF!,#REF!,#REF!,109.23,#REF!,#REF!,Thu,Sat
+A00687,North,Ling,Assess,,22-Apr-21,25-May-21,2,,,0.5,86,C.O.D.,33,#REF!,#REF!,#REF!,86,#REF!,#REF!,Thu,Tue
+A00688,Southeast,Cartier,Deliver,,22-Apr-21,3-Jul-21,1,,,0.25,142.91,C.O.D.,72,#REF!,#REF!,#REF!,142.91,#REF!,#REF!,Thu,Sat
+A00689,North,Ling,Assess,,23-Apr-21,11-May-21,2,,,0.25,82.98,Account,18,#REF!,#REF!,#REF!,82.98,#REF!,#REF!,Fri,Tue
+A00690,Southeast,Cartier,Deliver,,23-Apr-21,29-May-21,1,,,0.25,120,C.O.D.,36,#REF!,#REF!,#REF!,120,#REF!,#REF!,Fri,Sat
+A00691,North,Ling,Assess,,23-Apr-21,1-Jun-21,2,,,0.25,120,Account,39,#REF!,#REF!,#REF!,120,#REF!,#REF!,Fri,Tue
+A00692,North,Ling,Install,,23-Apr-21,,2,,,,356.24,C.O.D.,  ,#REF!,#REF!,#REF!,356.24,#REF!,#REF!,Fri,Sat
+A00693,East,Ling,Replace,,24-Apr-21,11-May-21,2,,,0.75,200,Account,17,#REF!,#REF!,#REF!,200,#REF!,#REF!,Sat,Tue
+A00694,Southeast,Cartier,Assess,,26-Apr-21,5-May-21,1,,,0.5,180,Account,9,#REF!,#REF!,#REF!,180,#REF!,#REF!,Mon,Wed
+A00695,South,Lopez,Deliver,,26-Apr-21,6-May-21,1,,,0.25,41.36,Account,10,#REF!,#REF!,#REF!,41.36,#REF!,#REF!,Mon,Thu
+A00696,Central,Cartier,Deliver,,26-Apr-21,7-May-21,2,,,0.25,667.79,Account,11,#REF!,#REF!,#REF!,667.79,#REF!,#REF!,Mon,Fri
+A00697,South,Burton,Assess,,26-Apr-21,12-May-21,1,,,0.25,36.74,C.O.D.,16,#REF!,#REF!,#REF!,36.74,#REF!,#REF!,Mon,Wed
+A00698,Northwest,Cartier,Deliver,,26-Apr-21,12-May-21,1,,,0.25,91.29,C.O.D.,16,#REF!,#REF!,#REF!,91.29,#REF!,#REF!,Mon,Wed
+A00699,North,Ling,Deliver,Yes,26-Apr-21,18-May-21,1,,,0.25,21.33,Account,22,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Tue
+A00700,Southwest,Cartier,Repair,,26-Apr-21,19-May-21,2,,,3.75,511.16,C.O.D.,23,#REF!,#REF!,#REF!,511.16,#REF!,#REF!,Mon,Wed
+A00701,Northwest,Cartier,Assess,,26-Apr-21,1-Jun-21,1,,,0.5,24.41,P.O.,36,#REF!,#REF!,#REF!,24.41,#REF!,#REF!,Mon,Tue
+A00702,Northwest,Cartier,Assess,Yes,26-Apr-21,1-Jun-21,2,,Yes,0.5,54.18,C.O.D.,36,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Tue
+A00703,South,Lopez,Deliver,,26-Apr-21,3-Jun-21,1,,,0.25,93.6,P.O.,38,#REF!,#REF!,#REF!,93.6,#REF!,#REF!,Mon,Thu
+A00704,South,Lopez,Assess,,26-Apr-21,8-Jun-21,1,,,0.25,810.3,P.O.,43,#REF!,#REF!,#REF!,810.3,#REF!,#REF!,Mon,Tue
+A00705,Southeast,Burton,Assess,,26-Apr-21,9-Jun-21,1,,,0.5,91.04,Account,44,#REF!,#REF!,#REF!,91.04,#REF!,#REF!,Mon,Wed
+A00706,Central,Cartier,Deliver,,26-Apr-21,21-Jun-21,1,,,0.25,82.79,C.O.D.,56,#REF!,#REF!,#REF!,82.79,#REF!,#REF!,Mon,Mon
+A00707,Central,Khan,Install,,26-Apr-21,24-Jun-21,1,Yes,Yes,3,226.77,Warranty,59,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Thu
+A00708,North,Ling,Assess,,26-Apr-21,,2,,,,106.65,Account,  ,#REF!,#REF!,#REF!,106.65,#REF!,#REF!,Mon,Sat
+A00709,North,Ling,Assess,,27-Apr-21,3-May-21,2,,,0.25,108.93,C.O.D.,6,#REF!,#REF!,#REF!,108.93,#REF!,#REF!,Tue,Mon
+A00710,Southeast,Cartier,Replace,,27-Apr-21,5-May-21,1,,,1,270.06,Account,8,#REF!,#REF!,#REF!,270.06,#REF!,#REF!,Tue,Wed
+A00711,East,Ling,Deliver,,27-Apr-21,17-May-21,2,,,0.25,145.9,Account,20,#REF!,#REF!,#REF!,145.9,#REF!,#REF!,Tue,Mon
+A00712,Southeast,Cartier,Assess,,27-Apr-21,17-May-21,1,,,0.25,150.36,Account,20,#REF!,#REF!,#REF!,150.36,#REF!,#REF!,Tue,Mon
+A00713,Southwest,Cartier,Deliver,,27-Apr-21,19-May-21,1,,Yes,0.25,127.4,C.O.D.,22,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Wed
+A00714,Northeast,Ling,Assess,,27-Apr-21,1-Jun-21,2,,,0.25,142.51,Account,35,#REF!,#REF!,#REF!,142.51,#REF!,#REF!,Tue,Tue
+A00715,East,Ling,Assess,Yes,27-Apr-21,7-Jun-21,1,,,0.25,32,Account,41,#REF!,#REF!,#REF!,32,#REF!,#REF!,Tue,Mon
+A00716,Southeast,Cartier,Assess,,27-Apr-21,16-Jun-21,1,,,0.25,61.09,C.O.D.,50,#REF!,#REF!,#REF!,61.09,#REF!,#REF!,Tue,Wed
+A00717,North,Ling,Replace,,28-Apr-21,7-May-21,2,,,1,171.26,Account,9,#REF!,#REF!,#REF!,171.26,#REF!,#REF!,Wed,Fri
+A00718,Northwest,Cartier,Repair,,28-Apr-21,6-May-21,1,,,1.75,92.75,Account,8,#REF!,#REF!,#REF!,92.75,#REF!,#REF!,Wed,Thu
+A00719,East,Ling,Replace,,28-Apr-21,20-May-21,2,,,0.5,174.76,Account,22,#REF!,#REF!,#REF!,174.76,#REF!,#REF!,Wed,Thu
+A00720,Southwest,Khan,Assess,,28-Apr-21,24-May-21,1,,,0.25,33.57,C.O.D.,26,#REF!,#REF!,#REF!,33.57,#REF!,#REF!,Wed,Mon
+A00721,Southeast,Burton,Deliver,,28-Apr-21,10-Jun-21,1,Yes,Yes,0.25,222.34,Warranty,43,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Thu
+A00722,Central,Burton,Replace,,29-Apr-21,13-May-21,1,,,1.25,153.94,C.O.D.,14,#REF!,#REF!,#REF!,153.94,#REF!,#REF!,Thu,Thu
+A00723,Northwest,Khan,Assess,,29-Apr-21,12-May-21,1,,,0.75,30,C.O.D.,13,#REF!,#REF!,#REF!,30,#REF!,#REF!,Thu,Wed
+A00724,North,Ling,Deliver,,29-Apr-21,13-May-21,1,,,0.25,19,Account,14,#REF!,#REF!,#REF!,19,#REF!,#REF!,Thu,Thu
+A00725,Southeast,Cartier,Assess,,29-Apr-21,17-May-21,1,,,0.25,75.18,Account,18,#REF!,#REF!,#REF!,75.18,#REF!,#REF!,Thu,Mon
+A00726,South,Lopez,Assess,,29-Apr-21,7-Jun-21,1,,,0.75,"1,180.16",Account,39,#REF!,#REF!,#REF!,"1,180.16",#REF!,#REF!,Thu,Mon
+A00727,Central,Cartier,Repair,,29-Apr-21,3-Jun-21,2,,Yes,2,125.78,C.O.D.,35,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Thu
+A00728,North,Ling,Deliver,,29-Apr-21,9-Jun-21,1,,,0.25,75.08,Account,41,#REF!,#REF!,#REF!,75.08,#REF!,#REF!,Thu,Wed
+A00729,Northeast,Ling,Replace,,29-Apr-21,25-Jun-21,2,,,0.5,103.18,C.O.D.,57,#REF!,#REF!,#REF!,103.18,#REF!,#REF!,Thu,Fri
+A00730,Northwest,Khan,Assess,,29-Apr-21,,2,,,,591.75,Account,  ,#REF!,#REF!,#REF!,591.75,#REF!,#REF!,Thu,Sat
+A00731,Southeast,Khan,Assess,,3-May-21,14-May-21,1,,,0.25,25.71,C.O.D.,11,#REF!,#REF!,#REF!,25.71,#REF!,#REF!,Mon,Fri
+A00732,North,Ling,Deliver,,3-May-21,13-May-21,1,,,0.25,36.75,Account,10,#REF!,#REF!,#REF!,36.75,#REF!,#REF!,Mon,Thu
+A00733,Central,Khan,Deliver,,3-May-21,13-May-21,1,,,0.25,128.68,C.O.D.,10,#REF!,#REF!,#REF!,128.68,#REF!,#REF!,Mon,Thu
+A00734,Southeast,Khan,Assess,,3-May-21,13-May-21,1,,,1.25,240.55,Account,10,#REF!,#REF!,#REF!,240.55,#REF!,#REF!,Mon,Thu
+A00735,Northwest,Burton,Assess,,3-May-21,13-May-21,2,,,0.5,357.98,C.O.D.,10,#REF!,#REF!,#REF!,357.98,#REF!,#REF!,Mon,Thu
+A00736,Central,Khan,Replace,,3-May-21,18-May-21,1,,,0.5,6.4,C.O.D.,15,#REF!,#REF!,#REF!,6.4,#REF!,#REF!,Mon,Tue
+A00737,Southeast,Burton,Replace,,3-May-21,19-May-21,2,Yes,Yes,1,182.08,Warranty,16,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Wed
+A00738,North,Ling,Deliver,,3-May-21,18-May-21,2,,,0.25,149.24,Account,15,#REF!,#REF!,#REF!,149.24,#REF!,#REF!,Mon,Tue
+A00739,Northeast,Ling,Assess,,3-May-21,20-May-21,2,,,0.25,26.59,Credit,17,#REF!,#REF!,#REF!,26.59,#REF!,#REF!,Mon,Thu
+A00740,West,Khan,Replace,,3-May-21,2-Jun-21,1,,,0.5,29.73,Account,30,#REF!,#REF!,#REF!,29.73,#REF!,#REF!,Mon,Wed
+A00741,North,Ling,Deliver,,3-May-21,7-Jun-21,1,,,0.25,21.33,Account,35,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Mon
+A00742,East,Ling,Deliver,,3-May-21,14-Jun-21,1,,,0.25,64.17,Account,42,#REF!,#REF!,#REF!,64.17,#REF!,#REF!,Mon,Mon
+A00743,West,Khan,Deliver,,3-May-21,21-Jun-21,1,,,0.25,70.82,P.O.,49,#REF!,#REF!,#REF!,70.82,#REF!,#REF!,Mon,Mon
+A00744,Southwest,Burton,Replace,,3-May-21,12-Jul-21,1,,,2.5,271.91,C.O.D.,70,#REF!,#REF!,#REF!,271.91,#REF!,#REF!,Mon,Mon
+A00745,Central,Khan,Assess,,4-May-21,13-May-21,1,,,0.75,146.2,C.O.D.,9,#REF!,#REF!,#REF!,146.2,#REF!,#REF!,Tue,Thu
+A00746,Central,Khan,Replace,,4-May-21,20-May-21,1,,,0.5,150,Account,16,#REF!,#REF!,#REF!,150,#REF!,#REF!,Tue,Thu
+A00747,Central,Cartier,Deliver,,4-May-21,3-Jun-21,1,,,0.25,140.5,C.O.D.,30,#REF!,#REF!,#REF!,140.5,#REF!,#REF!,Tue,Thu
+A00748,South,Lopez,Deliver,,4-May-21,10-Jun-21,1,,,0.25,39,Account,37,#REF!,#REF!,#REF!,39,#REF!,#REF!,Tue,Thu
+A00749,North,Khan,Repair,,4-May-21,12-Jul-21,2,,,2.25,716.99,C.O.D.,69,#REF!,#REF!,#REF!,716.99,#REF!,#REF!,Tue,Mon
+A00750,Northeast,Ling,Deliver,,4-May-21,,1,,,,118.9,Account,  ,#REF!,#REF!,#REF!,118.9,#REF!,#REF!,Tue,Sat
+A00751,South,Burton,Assess,,5-May-21,17-May-21,2,,Yes,0.25,24,C.O.D.,12,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00752,Southeast,Cartier,Assess,,5-May-21,17-May-21,1,,,0.25,28.04,Account,12,#REF!,#REF!,#REF!,28.04,#REF!,#REF!,Wed,Mon
+A00753,South,Burton,Assess,,5-May-21,17-May-21,2,,,0.5,291.11,C.O.D.,12,#REF!,#REF!,#REF!,291.11,#REF!,#REF!,Wed,Mon
+A00754,Northeast,Ling,Assess,,5-May-21,24-May-21,2,,,0.25,36.34,Account,19,#REF!,#REF!,#REF!,36.34,#REF!,#REF!,Wed,Mon
+A00755,Central,Burton,Repair,,5-May-21,27-May-21,1,,,1,26.84,C.O.D.,22,#REF!,#REF!,#REF!,26.84,#REF!,#REF!,Wed,Thu
+A00756,Central,Khan,Deliver,,6-May-21,20-May-21,1,,,0.25,56.11,Account,14,#REF!,#REF!,#REF!,56.11,#REF!,#REF!,Thu,Thu
+A00757,North,Ling,Replace,,6-May-21,19-May-21,2,,,0.5,205.53,Account,13,#REF!,#REF!,#REF!,205.53,#REF!,#REF!,Thu,Wed
+A00758,Northwest,Cartier,Repair,,6-May-21,26-May-21,1,,,1,77.81,C.O.D.,20,#REF!,#REF!,#REF!,77.81,#REF!,#REF!,Thu,Wed
+A00759,Southeast,Cartier,Replace,,6-May-21,27-May-21,1,,,0.5,205.07,C.O.D.,21,#REF!,#REF!,#REF!,205.07,#REF!,#REF!,Thu,Thu
+A00760,Southeast,Cartier,Repair,,7-May-21,20-Jul-21,1,,,1.25,30,C.O.D.,74,#REF!,#REF!,#REF!,30,#REF!,#REF!,Fri,Tue
+A00761,South,Lopez,Assess,,10-May-21,19-May-21,1,,,0.5,92.59,P.O.,9,#REF!,#REF!,#REF!,92.59,#REF!,#REF!,Mon,Wed
+A00762,North,Ling,Assess,,10-May-21,31-May-21,1,,,0.25,58.24,Account,21,#REF!,#REF!,#REF!,58.24,#REF!,#REF!,Mon,Mon
+A00763,Northwest,Burton,Replace,Yes,10-May-21,5-Jun-21,2,,,0.5,69.66,P.O.,26,#REF!,#REF!,#REF!,69.66,#REF!,#REF!,Mon,Sat
+A00764,Central,Cartier,Install,Yes,10-May-21,2-Jun-21,2,,,1,51.88,C.O.D.,23,#REF!,#REF!,#REF!,51.88,#REF!,#REF!,Mon,Wed
+A00765,Southwest,Cartier,Assess,,10-May-21,10-Jun-21,2,,,0.5,103.18,C.O.D.,31,#REF!,#REF!,#REF!,103.18,#REF!,#REF!,Mon,Thu
+A00766,North,Ling,Assess,,10-May-21,10-Jun-21,2,,,0.25,122.63,C.O.D.,31,#REF!,#REF!,#REF!,122.63,#REF!,#REF!,Mon,Thu
+A00767,Southeast,Cartier,Assess,,10-May-21,14-Jun-21,1,,,0.25,73.81,C.O.D.,35,#REF!,#REF!,#REF!,73.81,#REF!,#REF!,Mon,Mon
+A00768,Northwest,Burton,Deliver,,11-May-21,24-May-21,2,,,0.25,479.36,Account,13,#REF!,#REF!,#REF!,479.36,#REF!,#REF!,Tue,Mon
+A00769,West,Khan,Assess,,11-May-21,2-Jun-21,1,,,0.25,180,P.O.,22,#REF!,#REF!,#REF!,180,#REF!,#REF!,Tue,Wed
+A00770,Central,Cartier,Replace,Yes,11-May-21,22-Jul-21,1,,,1,117.45,Account,72,#REF!,#REF!,#REF!,117.45,#REF!,#REF!,Tue,Thu
+A00771,West,Khan,Assess,,12-May-21,2-Jun-21,1,,,0.25,240.28,P.O.,21,#REF!,#REF!,#REF!,240.28,#REF!,#REF!,Wed,Wed
+A00772,Southwest,Khan,Replace,,12-May-21,16-Jun-21,2,,,0.5,176.31,C.O.D.,35,#REF!,#REF!,#REF!,176.31,#REF!,#REF!,Wed,Wed
+A00773,Central,Cartier,Assess,,12-May-21,23-Jun-21,1,,,0.5,280,Account,42,#REF!,#REF!,#REF!,280,#REF!,#REF!,Wed,Wed
+A00774,Central,Khan,Repair,,12-May-21,20-Jul-21,2,,,2,345.73,C.O.D.,69,#REF!,#REF!,#REF!,345.73,#REF!,#REF!,Wed,Tue
+A00775,North,Ling,Replace,,13-May-21,31-May-21,2,,,1,158.29,Account,18,#REF!,#REF!,#REF!,158.29,#REF!,#REF!,Thu,Mon
+A00776,Northwest,Cartier,Replace,,13-May-21,1-Jun-21,1,,,0.5,14.42,Account,19,#REF!,#REF!,#REF!,14.42,#REF!,#REF!,Thu,Tue
+A00777,South,Lopez,Replace,,13-May-21,8-Jun-21,1,,,0.75,62.97,Account,26,#REF!,#REF!,#REF!,62.97,#REF!,#REF!,Thu,Tue
+A00778,North,Ling,Assess,,13-May-21,8-Jun-21,2,,,0.25,63.44,Account,26,#REF!,#REF!,#REF!,63.44,#REF!,#REF!,Thu,Tue
+A00779,Central,Cartier,Replace,,13-May-21,16-Jun-21,1,,,0.5,30,C.O.D.,34,#REF!,#REF!,#REF!,30,#REF!,#REF!,Thu,Wed
+A00780,Northeast,Ling,Replace,,13-May-21,17-Jun-21,1,,,0.5,496,Account,35,#REF!,#REF!,#REF!,496,#REF!,#REF!,Thu,Thu
+A00781,Northwest,Cartier,Replace,Yes,13-May-21,,1,,Yes,,126.81,C.O.D.,  ,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Sat
+A00782,West,Khan,Install,,13-May-21,,2,,,,144,C.O.D.,  ,#REF!,#REF!,#REF!,144,#REF!,#REF!,Thu,Sat
+A00783,East,Ling,Replace,,15-May-21,7-Jun-21,2,,Yes,0.5,494.93,C.O.D.,23,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Sat,Mon
+A00784,North,Ling,Assess,,15-May-21,8-Jun-21,2,,,0.25,30.05,C.O.D.,24,#REF!,#REF!,#REF!,30.05,#REF!,#REF!,Sat,Tue
+A00785,Southeast,Burton,Assess,Yes,17-May-21,25-May-21,1,,,0.25,147.64,Account,8,#REF!,#REF!,#REF!,147.64,#REF!,#REF!,Mon,Tue
+A00786,North,Ling,Replace,,17-May-21,28-May-21,2,,,0.5,37.44,C.O.D.,11,#REF!,#REF!,#REF!,37.44,#REF!,#REF!,Mon,Fri
+A00787,Northeast,Ling,Assess,,17-May-21,2-Jun-21,2,,,0.5,288,Account,16,#REF!,#REF!,#REF!,288,#REF!,#REF!,Mon,Wed
+A00788,Northwest,Cartier,Assess,,17-May-21,2-Jun-21,2,,,1,150,C.O.D.,16,#REF!,#REF!,#REF!,150,#REF!,#REF!,Mon,Wed
+A00789,North,Ling,Deliver,,17-May-21,8-Jun-21,1,,,0.25,42.66,Account,22,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Mon,Tue
+A00790,North,Ling,Assess,,17-May-21,8-Jun-21,1,,,0.25,287.25,Account,22,#REF!,#REF!,#REF!,287.25,#REF!,#REF!,Mon,Tue
+A00791,West,Cartier,Deliver,,17-May-21,11-Jun-21,2,,,0.25,147.4,C.O.D.,25,#REF!,#REF!,#REF!,147.4,#REF!,#REF!,Mon,Fri
+A00792,North,Ling,Deliver,,17-May-21,19-Jun-21,1,,,0.25,59.24,C.O.D.,33,#REF!,#REF!,#REF!,59.24,#REF!,#REF!,Mon,Sat
+A00793,North,Ling,Assess,,17-May-21,14-Jun-21,1,,,0.25,240,Account,28,#REF!,#REF!,#REF!,240,#REF!,#REF!,Mon,Mon
+A00794,North,Ling,Deliver,,17-May-21,22-Jun-21,2,,,0.25,197.47,C.O.D.,36,#REF!,#REF!,#REF!,197.47,#REF!,#REF!,Mon,Tue
+A00795,Northeast,Ling,Assess,,17-May-21,16-Jul-21,2,,,0.5,304.19,C.O.D.,60,#REF!,#REF!,#REF!,304.19,#REF!,#REF!,Mon,Fri
+A00796,Southeast,Burton,Replace,,18-May-21,27-May-21,1,,,0.5,64.34,Account,9,#REF!,#REF!,#REF!,64.34,#REF!,#REF!,Tue,Thu
+A00797,South,Lopez,Replace,,18-May-21,31-May-21,1,,,0.5,10.27,Account,13,#REF!,#REF!,#REF!,10.27,#REF!,#REF!,Tue,Mon
+A00798,Northwest,Burton,Assess,,18-May-21,3-Jun-21,2,,,0.75,319.02,C.O.D.,16,#REF!,#REF!,#REF!,319.02,#REF!,#REF!,Tue,Thu
+A00799,Northwest,Khan,Replace,,18-May-21,1-Jun-21,1,,,0.75,131,C.O.D.,14,#REF!,#REF!,#REF!,131,#REF!,#REF!,Tue,Tue
+A00800,North,Ling,Assess,,18-May-21,2-Jun-21,2,,,0.25,167,Account,15,#REF!,#REF!,#REF!,167,#REF!,#REF!,Tue,Wed
+A00801,Southeast,Burton,Replace,,18-May-21,9-Jun-21,1,,,0.5,91.04,Account,22,#REF!,#REF!,#REF!,91.04,#REF!,#REF!,Tue,Wed
+A00802,West,Khan,Assess,,18-May-21,22-Jun-21,1,,,0.25,44.92,C.O.D.,35,#REF!,#REF!,#REF!,44.92,#REF!,#REF!,Tue,Tue
+A00803,Northwest,Cartier,Replace,,18-May-21,23-Jul-21,1,Yes,Yes,1,163.93,Warranty,66,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Fri
+A00804,Southeast,Cartier,Install,,18-May-21,,2,,,,281.62,Account,  ,#REF!,#REF!,#REF!,281.62,#REF!,#REF!,Tue,Sat
+A00805,South,Lopez,Assess,,19-May-21,31-May-21,1,,,0.5,7.02,P.O.,12,#REF!,#REF!,#REF!,7.02,#REF!,#REF!,Wed,Mon
+A00806,South,Lopez,Assess,,19-May-21,31-May-21,1,,,0.5,29,Account,12,#REF!,#REF!,#REF!,29,#REF!,#REF!,Wed,Mon
+A00807,South,Lopez,Assess,,19-May-21,31-May-21,1,,,0.5,50.57,P.O.,12,#REF!,#REF!,#REF!,50.57,#REF!,#REF!,Wed,Mon
+A00808,East,Ling,Replace,,19-May-21,3-Jun-21,2,,,0.5,271.79,C.O.D.,15,#REF!,#REF!,#REF!,271.79,#REF!,#REF!,Wed,Thu
+A00809,East,Ling,Assess,,19-May-21,29-Jun-21,2,Yes,Yes,0.25,14.7,Warranty,41,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Tue
+A00810,Southeast,Cartier,Replace,,20-May-21,8-Jun-21,2,,Yes,3.25,311.36,C.O.D.,19,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Thu,Tue
+A00811,Central,Cartier,Replace,,20-May-21,11-Jun-21,1,,,0.75,189.32,C.O.D.,22,#REF!,#REF!,#REF!,189.32,#REF!,#REF!,Thu,Fri
+A00812,Northwest,Cartier,Assess,,20-May-21,17-Jun-21,1,,,0.5,74.53,Account,28,#REF!,#REF!,#REF!,74.53,#REF!,#REF!,Thu,Thu
+A00813,Central,Cartier,Repair,,20-May-21,28-Jun-21,1,,,1.5,673.22,C.O.D.,39,#REF!,#REF!,#REF!,673.22,#REF!,#REF!,Thu,Mon
+A00814,Central,Burton,Repair,,20-May-21,7-Jul-21,2,,,3.5,230.4,C.O.D.,48,#REF!,#REF!,#REF!,230.4,#REF!,#REF!,Thu,Wed
+A00815,North,Ling,Assess,,20-May-21,16-Jul-21,2,,,0.25,14.42,Account,57,#REF!,#REF!,#REF!,14.42,#REF!,#REF!,Thu,Fri
+A00816,Southwest,Burton,Repair,,20-May-21,,2,,,,852.55,C.O.D.,  ,#REF!,#REF!,#REF!,852.55,#REF!,#REF!,Thu,Sat
+A00817,Northwest,Burton,Replace,Yes,21-May-21,1-Jun-21,1,,,0.5,36.75,Account,11,#REF!,#REF!,#REF!,36.75,#REF!,#REF!,Fri,Tue
+A00818,Northwest,Cartier,Install,,21-May-21,22-Jun-21,1,,,1,57.97,P.O.,32,#REF!,#REF!,#REF!,57.97,#REF!,#REF!,Fri,Tue
+A00819,Northwest,Cartier,Replace,,21-May-21,,1,,,,90,P.O.,  ,#REF!,#REF!,#REF!,90,#REF!,#REF!,Fri,Sat
+A00820,Northwest,Burton,Replace,Yes,22-May-21,,1,,,,108.51,C.O.D.,  ,#REF!,#REF!,#REF!,108.51,#REF!,#REF!,Sat,Sat
+A00821,North,Ling,Deliver,,24-May-21,2-Jun-21,1,,,0.25,22,Account,9,#REF!,#REF!,#REF!,22,#REF!,#REF!,Mon,Wed
+A00822,Southeast,Cartier,Deliver,,24-May-21,3-Jun-21,1,,,0.25,66.86,C.O.D.,10,#REF!,#REF!,#REF!,66.86,#REF!,#REF!,Mon,Thu
+A00823,South,Lopez,Replace,,24-May-21,15-Jun-21,1,,,0.75,111.15,Account,22,#REF!,#REF!,#REF!,111.15,#REF!,#REF!,Mon,Tue
+A00824,South,Burton,Assess,,24-May-21,12-Jul-21,2,,,0.75,239.54,Account,49,#REF!,#REF!,#REF!,239.54,#REF!,#REF!,Mon,Mon
+A00825,Central,Cartier,Replace,,24-May-21,15-Jul-21,1,,,0.5,657.69,C.O.D.,52,#REF!,#REF!,#REF!,657.69,#REF!,#REF!,Mon,Thu
+A00826,Southeast,Burton,Assess,,24-May-21,19-Jul-21,1,,,0.25,30,C.O.D.,56,#REF!,#REF!,#REF!,30,#REF!,#REF!,Mon,Mon
+A00827,Southeast,Khan,Assess,,25-May-21,19-Jun-21,1,,,0.5,26.57,C.O.D.,25,#REF!,#REF!,#REF!,26.57,#REF!,#REF!,Tue,Sat
+A00828,West,Burton,Assess,,25-May-21,14-Jun-21,2,,,1.25,9.6,C.O.D.,20,#REF!,#REF!,#REF!,9.6,#REF!,#REF!,Tue,Mon
+A00829,West,Khan,Assess,,25-May-21,16-Jun-21,2,,,0.25,396.29,C.O.D.,22,#REF!,#REF!,#REF!,396.29,#REF!,#REF!,Tue,Wed
+A00830,East,Ling,Replace,,25-May-21,5-Jul-21,2,,,0.5,108,C.O.D.,41,#REF!,#REF!,#REF!,108,#REF!,#REF!,Tue,Mon
+A00831,Northwest,Cartier,Assess,,25-May-21,19-Jul-21,1,,,0.5,147.24,C.O.D.,55,#REF!,#REF!,#REF!,147.24,#REF!,#REF!,Tue,Mon
+A00832,Central,Burton,Install,,25-May-21,,1,,Yes,,151.28,C.O.D.,  ,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Tue,Sat
+A00833,Northwest,Cartier,Replace,,25-May-21,,1,,,,47.05,P.O.,  ,#REF!,#REF!,#REF!,47.05,#REF!,#REF!,Tue,Sat
+A00834,Northwest,Burton,Deliver,,26-May-21,5-Jun-21,1,,,0.25,51.73,C.O.D.,10,#REF!,#REF!,#REF!,51.73,#REF!,#REF!,Wed,Sat
+A00835,Southeast,Cartier,Assess,,26-May-21,2-Jun-21,2,,,0.25,445.78,Account,7,#REF!,#REF!,#REF!,445.78,#REF!,#REF!,Wed,Wed
+A00836,Southeast,Cartier,Assess,,26-May-21,14-Jun-21,2,,Yes,0.25,27.49,C.O.D.,19,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00837,West,Burton,Assess,,26-May-21,14-Jun-21,1,,,0.25,42.66,Account,19,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Wed,Mon
+A00838,Southeast,Cartier,Deliver,,26-May-21,14-Jun-21,1,,,0.25,185.11,C.O.D.,19,#REF!,#REF!,#REF!,185.11,#REF!,#REF!,Wed,Mon
+A00839,Northwest,Cartier,Replace,,26-May-21,17-Jun-21,1,,Yes,0.75,70,C.O.D.,22,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Thu
+A00840,Southeast,Cartier,Assess,,26-May-21,22-Jun-21,1,,,0.25,120,Account,27,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Tue
+A00841,Southeast,Cartier,Assess,,26-May-21,30-Jun-21,1,,,0.25,178.36,C.O.D.,35,#REF!,#REF!,#REF!,178.36,#REF!,#REF!,Wed,Wed
+A00842,Northeast,Khan,Install,,26-May-21,28-Jun-21,1,Yes,Yes,1.5,477.78,Warranty,33,#REF!,#REF!, -   , -   ,#REF!, -   ,Wed,Mon
+A00843,Northwest,Khan,Repair,Yes,26-May-21,30-Jun-21,1,,,1,67.97,P.O.,35,#REF!,#REF!,#REF!,67.97,#REF!,#REF!,Wed,Wed
+A00844,South,Burton,Assess,,26-May-21,5-Jul-21,2,,Yes,1.25,300.72,C.O.D.,40,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Mon
+A00845,Central,Burton,Assess,,26-May-21,,1,,,,377.6,Account,  ,#REF!,#REF!,#REF!,377.6,#REF!,#REF!,Wed,Sat
+A00846,Northwest,Cartier,Assess,,26-May-21,,1,,,,70,P.O.,  ,#REF!,#REF!,#REF!,70,#REF!,#REF!,Wed,Sat
+A00847,Northwest,Cartier,Replace,,26-May-21,,1,,,,177.05,P.O.,  ,#REF!,#REF!,#REF!,177.05,#REF!,#REF!,Wed,Sat
+A00848,Central,Burton,Replace,,26-May-21,,2,,,,839.68,C.O.D.,  ,#REF!,#REF!,#REF!,839.68,#REF!,#REF!,Wed,Sat
+A00849,North,Ling,Assess,,27-May-21,3-Jun-21,1,,,0.25,120,Account,7,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Thu
+A00850,Northeast,Khan,Assess,,27-May-21,10-Jun-21,1,,,0.25,156.49,C.O.D.,14,#REF!,#REF!,#REF!,156.49,#REF!,#REF!,Thu,Thu
+A00851,North,Ling,Deliver,,27-May-21,15-Jun-21,2,,,0.25,155,Account,19,#REF!,#REF!,#REF!,155,#REF!,#REF!,Thu,Tue
+A00852,Central,Khan,Replace,,27-May-21,17-Jun-21,1,,,0.5,20.83,Account,21,#REF!,#REF!,#REF!,20.83,#REF!,#REF!,Thu,Thu
+A00853,Central,Cartier,Assess,Yes,27-May-21,22-Jun-21,1,Yes,Yes,0.5,50,Warranty,26,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Tue
+A00854,South,Burton,Deliver,,27-May-21,13-Jul-21,1,,,0.25,120,C.O.D.,47,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Tue
+A00855,Central,Burton,Repair,,28-May-21,,1,,Yes,,17.06,C.O.D.,  ,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Fri,Sat
+A00856,Southeast,Burton,Assess,,31-May-21,9-Jun-21,1,,,0.25,182.08,C.O.D.,9,#REF!,#REF!,#REF!,182.08,#REF!,#REF!,Mon,Wed
+A00857,North,Ling,Assess,,31-May-21,21-Jun-21,2,,,0.25,19.55,Account,21,#REF!,#REF!,#REF!,19.55,#REF!,#REF!,Mon,Mon
+A00858,North,Ling,Assess,,31-May-21,21-Jun-21,2,,,0.5,144,C.O.D.,21,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Mon
+A00859,West,Lopez,Assess,,31-May-21,24-Jun-21,1,,,0.75,86.48,P.O.,24,#REF!,#REF!,#REF!,86.48,#REF!,#REF!,Mon,Thu
+A00860,Southeast,Cartier,Assess,,31-May-21,24-Jun-21,1,,Yes,0.25,69.15,C.O.D.,24,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Thu
+A00861,North,Ling,Repair,,31-May-21,12-Jul-21,2,,,1.25,156,C.O.D.,42,#REF!,#REF!,#REF!,156,#REF!,#REF!,Mon,Mon
+A00862,West,Khan,Replace,,31-May-21,,2,,,,72.35,Account,  ,#REF!,#REF!,#REF!,72.35,#REF!,#REF!,Mon,Sat
+A00863,North,Ling,Deliver,,1-Jun-21,15-Jun-21,1,Yes,Yes,0.25,240,Warranty,14,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Tue
+A00864,Northwest,Khan,Repair,,1-Jun-21,21-Jun-21,1,Yes,Yes,4.25,558.11,Warranty,20,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Mon
+A00865,Northwest,Cartier,Assess,,1-Jun-21,29-Jun-21,1,Yes,Yes,1,43.43,Warranty,28,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Tue
+A00866,South,Burton,Deliver,,1-Jun-21,5-Jul-21,1,Yes,Yes,0.25,141.9,Warranty,34,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Mon
+A00867,Southeast,Khan,Assess,,1-Jun-21,24-Jul-21,2,,,1,136.71,C.O.D.,53,#REF!,#REF!,#REF!,136.71,#REF!,#REF!,Tue,Sat
+A00868,Northwest,Cartier,Assess,,1-Jun-21,,2,,,,85.35,P.O.,  ,#REF!,#REF!,#REF!,85.35,#REF!,#REF!,Tue,Sat
+A00869,East,Ling,Assess,,2-Jun-21,7-Jun-21,1,,,0.5,85.32,C.O.D.,5,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Wed,Mon
+A00870,South,Lopez,Replace,,2-Jun-21,17-Jun-21,1,,,0.75,42.42,Account,15,#REF!,#REF!,#REF!,42.42,#REF!,#REF!,Wed,Thu
+A00871,Southeast,Burton,Replace,,2-Jun-21,17-Jun-21,2,,,0.75,184.05,C.O.D.,15,#REF!,#REF!,#REF!,184.05,#REF!,#REF!,Wed,Thu
+A00872,Central,Khan,Repair,,2-Jun-21,17-Jun-21,1,,,1,272.25,C.O.D.,15,#REF!,#REF!,#REF!,272.25,#REF!,#REF!,Wed,Thu
+A00873,West,Khan,Deliver,,2-Jun-21,21-Jun-21,1,,,0.25,204.28,Account,19,#REF!,#REF!,#REF!,204.28,#REF!,#REF!,Wed,Mon
+A00874,South,Khan,Deliver,,2-Jun-21,23-Jun-21,1,,,0.25,84.08,C.O.D.,21,#REF!,#REF!,#REF!,84.08,#REF!,#REF!,Wed,Wed
+A00875,North,Ling,Assess,,2-Jun-21,3-Jul-21,2,,,0.25,57.39,Account,31,#REF!,#REF!,#REF!,57.39,#REF!,#REF!,Wed,Sat
+A00876,Central,Khan,Repair,,2-Jun-21,3-Jul-21,1,,,2,192.44,C.O.D.,31,#REF!,#REF!,#REF!,192.44,#REF!,#REF!,Wed,Sat
+A00877,Southeast,Khan,Assess,,2-Jun-21,30-Jun-21,1,,,0.5,271.92,C.O.D.,28,#REF!,#REF!,#REF!,271.92,#REF!,#REF!,Wed,Wed
+A00878,Central,Khan,Assess,,2-Jun-21,30-Jun-21,1,,,0.5,588.55,Account,28,#REF!,#REF!,#REF!,588.55,#REF!,#REF!,Wed,Wed
+A00879,North,Ling,Deliver,,2-Jun-21,28-Jun-21,1,,,0.25,52.35,Account,26,#REF!,#REF!,#REF!,52.35,#REF!,#REF!,Wed,Mon
+A00880,South,Lopez,Assess,,2-Jun-21,7-Jul-21,1,,,0.5,240.59,P.O.,35,#REF!,#REF!,#REF!,240.59,#REF!,#REF!,Wed,Wed
+A00881,West,Khan,Deliver,,2-Jun-21,14-Jul-21,1,,,0.25,76.86,C.O.D.,42,#REF!,#REF!,#REF!,76.86,#REF!,#REF!,Wed,Wed
+A00882,Central,Khan,Replace,,2-Jun-21,24-Jul-21,2,,,0.5,519.01,C.O.D.,52,#REF!,#REF!,#REF!,519.01,#REF!,#REF!,Wed,Sat
+A00883,South,Lopez,Assess,,3-Jun-21,10-Jun-21,1,,,0.25,7.02,P.O.,7,#REF!,#REF!,#REF!,7.02,#REF!,#REF!,Thu,Thu
+A00884,North,Ling,Deliver,,3-Jun-21,17-Jun-21,1,,,0.25,42.66,Account,14,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Thu,Thu
+A00885,Southeast,Cartier,Assess,,3-Jun-21,24-Jun-21,1,,,0.25,179.54,C.O.D.,21,#REF!,#REF!,#REF!,179.54,#REF!,#REF!,Thu,Thu
+A00886,Southeast,Cartier,Assess,,3-Jun-21,28-Jun-21,1,,,0.25,7.8,C.O.D.,25,#REF!,#REF!,#REF!,7.8,#REF!,#REF!,Thu,Mon
+A00887,North,Ling,Deliver,,3-Jun-21,7-Jul-21,1,,,0.25,107.52,C.O.D.,34,#REF!,#REF!,#REF!,107.52,#REF!,#REF!,Thu,Wed
+A00888,Northwest,Khan,Replace,,3-Jun-21,21-Jul-21,2,,,0.5,150,Account,48,#REF!,#REF!,#REF!,150,#REF!,#REF!,Thu,Wed
+A00889,North,Ling,Replace,,3-Jun-21,,2,,,,42.66,Account,  ,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Thu,Sat
+A00890,Central,Cartier,Assess,,3-Jun-21,,2,,,,20.01,C.O.D.,  ,#REF!,#REF!,#REF!,20.01,#REF!,#REF!,Thu,Sat
+A00891,West,Khan,Deliver,,4-Jun-21,19-Jul-21,1,,,0.25,180,C.O.D.,45,#REF!,#REF!,#REF!,180,#REF!,#REF!,Fri,Mon
+A00892,Southeast,Burton,Deliver,,5-Jun-21,23-Jun-21,1,,,0.25,30,C.O.D.,18,#REF!,#REF!,#REF!,30,#REF!,#REF!,Sat,Wed
+A00893,North,Ling,Deliver,,7-Jun-21,10-Jun-21,1,,,0.25,0.46,C.O.D.,3,#REF!,#REF!,#REF!,0.46,#REF!,#REF!,Mon,Thu
+A00894,Central,Cartier,Assess,,7-Jun-21,14-Jun-21,2,,Yes,1.5,105.98,C.O.D.,7,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Mon
+A00895,North,Ling,Assess,,7-Jun-21,15-Jun-21,2,,,0.25,19.2,Account,8,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Mon,Tue
+A00896,West,Khan,Deliver,,7-Jun-21,21-Jun-21,1,,,0.25,180,C.O.D.,14,#REF!,#REF!,#REF!,180,#REF!,#REF!,Mon,Mon
+A00897,Southeast,Burton,Replace,,7-Jun-21,14-Jul-21,1,,Yes,0.5,240.67,C.O.D.,37,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Wed
+A00898,Central,Burton,Replace,,7-Jun-21,21-Jul-21,1,,,2,425.9,C.O.D.,44,#REF!,#REF!,#REF!,425.9,#REF!,#REF!,Mon,Wed
+A00899,Northwest,Cartier,Install,,7-Jun-21,,2,,,,346.24,C.O.D.,  ,#REF!,#REF!,#REF!,346.24,#REF!,#REF!,Mon,Sat
+A00900,North,Ling,Deliver,,8-Jun-21,14-Jun-21,2,,,0.25,146.76,C.O.D.,6,#REF!,#REF!,#REF!,146.76,#REF!,#REF!,Tue,Mon
+A00901,Central,Cartier,Replace,,8-Jun-21,16-Jun-21,1,,,0.5,120,C.O.D.,8,#REF!,#REF!,#REF!,120,#REF!,#REF!,Tue,Wed
+A00902,Northwest,Cartier,Assess,,8-Jun-21,17-Jun-21,1,,,0.5,45.88,P.O.,9,#REF!,#REF!,#REF!,45.88,#REF!,#REF!,Tue,Thu
+A00903,South,Lopez,Install,,8-Jun-21,22-Jun-21,1,,,1.25,30.42,Account,14,#REF!,#REF!,#REF!,30.42,#REF!,#REF!,Tue,Tue
+A00904,South,Lopez,Deliver,,8-Jun-21,22-Jun-21,1,,,0.25,30,Account,14,#REF!,#REF!,#REF!,30,#REF!,#REF!,Tue,Tue
+A00905,North,Ling,Deliver,,8-Jun-21,22-Jun-21,1,,,0.25,90.63,C.O.D.,14,#REF!,#REF!,#REF!,90.63,#REF!,#REF!,Tue,Tue
+A00906,North,Ling,Assess,,8-Jun-21,7-Jul-21,2,,,0.25,120,C.O.D.,29,#REF!,#REF!,#REF!,120,#REF!,#REF!,Tue,Wed
+A00907,Southeast,Khan,Assess,Yes,8-Jun-21,12-Jul-21,1,,,0.75,8.92,Account,34,#REF!,#REF!,#REF!,8.92,#REF!,#REF!,Tue,Mon
+A00908,South,Burton,Repair,,8-Jun-21,12-Jul-21,2,,,1.25,244.72,Account,34,#REF!,#REF!,#REF!,244.72,#REF!,#REF!,Tue,Mon
+A00909,Northwest,Cartier,Assess,,8-Jun-21,,2,,,,150,Account,  ,#REF!,#REF!,#REF!,150,#REF!,#REF!,Tue,Sat
+A00910,Southeast,Cartier,Assess,,9-Jun-21,18-Jun-21,2,,,0.25,52.17,Account,9,#REF!,#REF!,#REF!,52.17,#REF!,#REF!,Wed,Fri
+A00911,North,Ling,Deliver,,9-Jun-21,1-Jul-21,1,,,0.25,41.71,Account,22,#REF!,#REF!,#REF!,41.71,#REF!,#REF!,Wed,Thu
+A00912,North,Burton,Repair,,10-Jun-21,12-Jun-21,1,,,1,"1,800.24",C.O.D.,2,#REF!,#REF!,#REF!,"1,800.24",#REF!,#REF!,Thu,Sat
+A00913,Central,Khan,Assess,,10-Jun-21,21-Jun-21,1,,,0.5,144,C.O.D.,11,#REF!,#REF!,#REF!,144,#REF!,#REF!,Thu,Mon
+A00914,West,Khan,Assess,Yes,10-Jun-21,21-Jun-21,1,,,0.5,39.95,Account,11,#REF!,#REF!,#REF!,39.95,#REF!,#REF!,Thu,Mon
+A00915,North,Ling,Replace,,10-Jun-21,26-Jun-21,2,,,0.5,180,Account,16,#REF!,#REF!,#REF!,180,#REF!,#REF!,Thu,Sat
+A00916,South,Khan,Assess,,10-Jun-21,23-Jun-21,1,,,0.25,150.36,C.O.D.,13,#REF!,#REF!,#REF!,150.36,#REF!,#REF!,Thu,Wed
+A00917,South,Lopez,Deliver,Yes,10-Jun-21,9-Jul-21,1,Yes,Yes,0.25,110.11,Warranty,29,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Fri
+A00918,North,Ling,Deliver,,10-Jun-21,15-Jul-21,1,,,0.25,120,Account,35,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Thu
+A00919,North,Ling,Replace,,10-Jun-21,12-Jul-21,2,,,0.5,272.5,Account,32,#REF!,#REF!,#REF!,272.5,#REF!,#REF!,Thu,Mon
+A00920,West,Khan,Assess,,10-Jun-21,14-Jul-21,1,,,0.25,34.5,P.O.,34,#REF!,#REF!,#REF!,34.5,#REF!,#REF!,Thu,Wed
+A00921,Central,Khan,Repair,,10-Jun-21,15-Jul-21,2,,,3,44.06,C.O.D.,35,#REF!,#REF!,#REF!,44.06,#REF!,#REF!,Thu,Thu
+A00922,Northwest,Cartier,Repair,,10-Jun-21,,2,,,,67.84,P.O.,  ,#REF!,#REF!,#REF!,67.84,#REF!,#REF!,Thu,Sat
+A00923,Central,Khan,Assess,,10-Jun-21,,2,,,,165.87,C.O.D.,  ,#REF!,#REF!,#REF!,165.87,#REF!,#REF!,Thu,Sat
+A00924,East,Ling,Replace,,10-Jun-21,,2,,,,42.66,Credit,  ,#REF!,#REF!,#REF!,42.66,#REF!,#REF!,Thu,Sat
+A00925,Southeast,Burton,Replace,,10-Jun-21,,1,,,,101.9,Account,  ,#REF!,#REF!,#REF!,101.9,#REF!,#REF!,Thu,Sat
+A00926,Southwest,Burton,Repair,,10-Jun-21,,2,,,,222.54,C.O.D.,  ,#REF!,#REF!,#REF!,222.54,#REF!,#REF!,Thu,Sat
+A00927,Southeast,Burton,Replace,,11-Jun-21,16-Jul-21,1,Yes,Yes,0.5,344.77,Warranty,35,#REF!,#REF!, -   , -   ,#REF!, -   ,Fri,Fri
+A00928,North,Ling,Deliver,,12-Jun-21,29-Jun-21,1,,,0.25,22,Account,17,#REF!,#REF!,#REF!,22,#REF!,#REF!,Sat,Tue
+A00929,Central,Cartier,Replace,,14-Jun-21,23-Jun-21,1,,,0.5,120,Account,9,#REF!,#REF!,#REF!,120,#REF!,#REF!,Mon,Wed
+A00930,Central,Khan,Replace,Yes,14-Jun-21,24-Jun-21,1,Yes,Yes,0.5,204.28,Warranty,10,#REF!,#REF!, -   , -   ,#REF!, -   ,Mon,Thu
+A00931,West,Burton,Replace,,14-Jun-21,7-Jul-21,2,,Yes,5,"2,048.56",C.O.D.,23,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Mon,Wed
+A00932,Southeast,Khan,Deliver,,14-Jun-21,22-Jul-21,1,,,0.25,8.55,C.O.D.,38,#REF!,#REF!,#REF!,8.55,#REF!,#REF!,Mon,Thu
+A00933,Central,Cartier,Assess,,14-Jun-21,22-Jul-21,1,,,0.5,120.54,C.O.D.,38,#REF!,#REF!,#REF!,120.54,#REF!,#REF!,Mon,Thu
+A00934,Northwest,Cartier,Replace,,14-Jun-21,,2,,,,52.35,P.O.,  ,#REF!,#REF!,#REF!,52.35,#REF!,#REF!,Mon,Sat
+A00935,Central,Khan,Install,,14-Jun-21,,2,,,,406.71,C.O.D.,  ,#REF!,#REF!,#REF!,406.71,#REF!,#REF!,Mon,Sat
+A00936,South,Lopez,Deliver,,15-Jun-21,9-Jul-21,1,,,0.25,70.53,Account,24,#REF!,#REF!,#REF!,70.53,#REF!,#REF!,Tue,Fri
+A00937,Northeast,Ling,Assess,,15-Jun-21,12-Jul-21,2,,,0.25,14.4,Account,27,#REF!,#REF!,#REF!,14.4,#REF!,#REF!,Tue,Mon
+A00938,Southeast,Burton,Assess,,15-Jun-21,14-Jul-21,1,,,0.25,144,P.O.,29,#REF!,#REF!,#REF!,144,#REF!,#REF!,Tue,Wed
+A00939,North,Ling,Assess,,15-Jun-21,19-Jul-21,1,,,0.5,5.4,C.O.D.,34,#REF!,#REF!,#REF!,5.4,#REF!,#REF!,Tue,Mon
+A00940,West,Lopez,Assess,,16-Jun-21,24-Jun-21,1,,,0.25,23.15,P.O.,8,#REF!,#REF!,#REF!,23.15,#REF!,#REF!,Wed,Thu
+A00941,Central,Khan,Replace,,16-Jun-21,24-Jun-21,1,,Yes,0.5,25.07,C.O.D.,8,#REF!,#REF!,#REF!, -   ,#REF!,#REF!,Wed,Thu
+A00942,Southeast,Burton,Assess,,16-Jun-21,15-Jul-21,1,,,0.5,175.22,C.O.D.,29,#REF!,#REF!,#REF!,175.22,#REF!,#REF!,Wed,Thu
+A00943,Northwest,Khan,Repair,,16-Jun-21,21-Jul-21,2,,,3.5,23,Account,35,#REF!,#REF!,#REF!,23,#REF!,#REF!,Wed,Wed
+A00944,West,Khan,Assess,,16-Jun-21,,2,,,,30,C.O.D.,  ,#REF!,#REF!,#REF!,30,#REF!,#REF!,Wed,Sat
+A00945,Central,Cartier,Deliver,,16-Jun-21,,1,,,,161.08,Account,  ,#REF!,#REF!,#REF!,161.08,#REF!,#REF!,Wed,Sat
+A00946,Central,Khan,Deliver,,16-Jun-21,,1,,,,59.81,C.O.D.,  ,#REF!,#REF!,#REF!,59.81,#REF!,#REF!,Wed,Sat
+A00947,West,Khan,Assess,,16-Jun-21,,1,,,,19.2,C.O.D.,  ,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Wed,Sat
+A00948,North,Ling,Deliver,Yes,16-Jun-21,,1,,,,50.79,Account,  ,#REF!,#REF!,#REF!,50.79,#REF!,#REF!,Wed,Sat
+A00949,North,Ling,Assess,,17-Jun-21,30-Jun-21,2,,,1.25,122.81,C.O.D.,13,#REF!,#REF!,#REF!,122.81,#REF!,#REF!,Thu,Wed
+A00950,West,Cartier,Assess,,17-Jun-21,6-Jul-21,1,,,0.25,54.82,Account,19,#REF!,#REF!,#REF!,54.82,#REF!,#REF!,Thu,Tue
+A00951,Central,Cartier,Replace,,17-Jun-21,22-Jul-21,2,,,2.5,86.42,C.O.D.,35,#REF!,#REF!,#REF!,86.42,#REF!,#REF!,Thu,Thu
+A00952,Northeast,Ling,Assess,,17-Jun-21,,2,,,,100.6,C.O.D.,  ,#REF!,#REF!,#REF!,100.6,#REF!,#REF!,Thu,Sat
+A00953,North,Ling,Deliver,,17-Jun-21,,1,,,,17.17,Account,  ,#REF!,#REF!,#REF!,17.17,#REF!,#REF!,Thu,Sat
+A00954,West,Burton,Assess,,17-Jun-21,,1,,,,10.31,P.O.,  ,#REF!,#REF!,#REF!,10.31,#REF!,#REF!,Thu,Sat
+A00955,North,Ling,Assess,,17-Jun-21,,2,,,,18.63,Account,  ,#REF!,#REF!,#REF!,18.63,#REF!,#REF!,Thu,Sat
+A00956,North,Ling,Assess,,17-Jun-21,,2,,,,32,Account,  ,#REF!,#REF!,#REF!,32,#REF!,#REF!,Thu,Sat
+A00957,North,Ling,Deliver,,17-Jun-21,,1,,,,14.13,P.O.,  ,#REF!,#REF!,#REF!,14.13,#REF!,#REF!,Thu,Sat
+A00958,North,Ling,Repair,,17-Jun-21,,1,,,,322,Account,  ,#REF!,#REF!,#REF!,322,#REF!,#REF!,Thu,Sat
+A00959,Northeast,Ling,Assess,,17-Jun-21,,2,,,,50.6,C.O.D.,  ,#REF!,#REF!,#REF!,50.6,#REF!,#REF!,Thu,Sat
+A00960,Southwest,Burton,Assess,,18-Jun-21,12-Jul-21,2,,,2,134.5,C.O.D.,24,#REF!,#REF!,#REF!,134.5,#REF!,#REF!,Fri,Mon
+A00961,Southeast,Cartier,Replace,,19-Jun-21,3-Jul-21,1,,,0.5,78.33,C.O.D.,14,#REF!,#REF!,#REF!,78.33,#REF!,#REF!,Sat,Sat
+A00962,Northwest,Khan,Install,,21-Jun-21,30-Jun-21,1,,,1.5,202.8,Account,9,#REF!,#REF!,#REF!,202.8,#REF!,#REF!,Mon,Wed
+A00963,Central,Burton,Replace,,21-Jun-21,9-Jul-21,1,,,0.5,67.9,C.O.D.,18,#REF!,#REF!,#REF!,67.9,#REF!,#REF!,Mon,Fri
+A00964,Northeast,Ling,Assess,,21-Jun-21,12-Jul-21,2,,,1,144,C.O.D.,21,#REF!,#REF!,#REF!,144,#REF!,#REF!,Mon,Mon
+A00965,South,Burton,Deliver,,21-Jun-21,13-Jul-21,2,,,0.25,178.36,Account,22,#REF!,#REF!,#REF!,178.36,#REF!,#REF!,Mon,Tue
+A00966,East,Ling,Deliver,,21-Jun-21,14-Jul-21,1,,,0.25,7.31,P.O.,23,#REF!,#REF!,#REF!,7.31,#REF!,#REF!,Mon,Wed
+A00967,East,Ling,Assess,,21-Jun-21,,2,,,,120,Account,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Mon,Sat
+A00968,Northwest,Cartier,Assess,,21-Jun-21,,1,,,,193.84,C.O.D.,  ,#REF!,#REF!,#REF!,193.84,#REF!,#REF!,Mon,Sat
+A00969,Northwest,Cartier,Assess,,21-Jun-21,,1,,,,901.5,P.O.,  ,#REF!,#REF!,#REF!,901.5,#REF!,#REF!,Mon,Sat
+A00970,Central,Cartier,Deliver,,21-Jun-21,,1,,,,64.34,Account,  ,#REF!,#REF!,#REF!,64.34,#REF!,#REF!,Mon,Sat
+A00971,Central,Cartier,Deliver,,21-Jun-21,,1,,,,64.34,Account,  ,#REF!,#REF!,#REF!,64.34,#REF!,#REF!,Mon,Sat
+A00972,Central,Burton,Assess,,21-Jun-21,,2,,,,282,C.O.D.,  ,#REF!,#REF!,#REF!,282,#REF!,#REF!,Mon,Sat
+A00973,West,Khan,Deliver,,22-Jun-21,16-Jul-21,1,,,0.25,21.33,Account,24,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Tue,Fri
+A00974,North,Ling,Assess,,22-Jun-21,19-Jul-21,2,,,0.25,55.89,Account,27,#REF!,#REF!,#REF!,55.89,#REF!,#REF!,Tue,Mon
+A00975,Northwest,Khan,Replace,,22-Jun-21,21-Jul-21,2,,,0.5,227.13,Account,29,#REF!,#REF!,#REF!,227.13,#REF!,#REF!,Tue,Wed
+A00976,Northwest,Cartier,Replace,,22-Jun-21,,2,Yes,Yes,,593.44,Warranty,  ,#REF!,#REF!, -   , -   ,#REF!, -   ,Tue,Sat
+A00977,Central,Burton,Replace,,22-Jun-21,,1,,,,65.5,Account,  ,#REF!,#REF!,#REF!,65.5,#REF!,#REF!,Tue,Sat
+A00978,East,Ling,Replace,,22-Jun-21,,2,,,,"1,137.74",Account,  ,#REF!,#REF!,#REF!,"1,137.74",#REF!,#REF!,Tue,Sat
+A00979,Central,Cartier,Repair,,22-Jun-21,,1,,,,273,C.O.D.,  ,#REF!,#REF!,#REF!,273,#REF!,#REF!,Tue,Sat
+A00980,South,Lopez,Deliver,,23-Jun-21,25-Jun-21,1,,,0.25,270.45,Account,2,#REF!,#REF!,#REF!,270.45,#REF!,#REF!,Wed,Fri
+A00981,Central,Khan,Assess,,23-Jun-21,3-Jul-21,1,,,1,180,P.O.,10,#REF!,#REF!,#REF!,180,#REF!,#REF!,Wed,Sat
+A00982,South,Lopez,Repair,,23-Jun-21,13-Jul-21,1,,,1,188.95,Account,20,#REF!,#REF!,#REF!,188.95,#REF!,#REF!,Wed,Tue
+A00983,Northeast,Ling,Deliver,,23-Jun-21,21-Jul-21,1,,,0.25,37.58,Account,28,#REF!,#REF!,#REF!,37.58,#REF!,#REF!,Wed,Wed
+A00984,Northwest,Cartier,Replace,,23-Jun-21,19-Jul-21,1,,,0.5,20,Account,26,#REF!,#REF!,#REF!,20,#REF!,#REF!,Wed,Mon
+A00985,South,Burton,Deliver,,23-Jun-21,19-Jul-21,1,,,0.25,78.28,C.O.D.,26,#REF!,#REF!,#REF!,78.28,#REF!,#REF!,Wed,Mon
+A00986,South,Ling,Deliver,,23-Jun-21,22-Jul-21,1,,,0.25,37.29,Account,29,#REF!,#REF!,#REF!,37.29,#REF!,#REF!,Wed,Thu
+A00987,North,Ling,Deliver,Yes,23-Jun-21,,1,,,,48.59,C.O.D.,  ,#REF!,#REF!,#REF!,48.59,#REF!,#REF!,Wed,Sat
+A00988,Central,Burton,Assess,,23-Jun-21,,2,,,,164.4,C.O.D.,  ,#REF!,#REF!,#REF!,164.4,#REF!,#REF!,Wed,Sat
+A00989,North,Ling,Deliver,,24-Jun-21,15-Jul-21,2,,,0.25,268.06,Account,21,#REF!,#REF!,#REF!,268.06,#REF!,#REF!,Thu,Thu
+A00990,West,Khan,Deliver,,24-Jun-21,23-Jul-21,1,,,0.25,19.2,P.O.,29,#REF!,#REF!,#REF!,19.2,#REF!,#REF!,Thu,Fri
+A00991,North,Ling,Assess,,24-Jun-21,19-Jul-21,2,,,0.25,21.33,Account,25,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Thu,Mon
+A00992,North,Burton,Replace,,24-Jun-21,,1,,,,7.5,C.O.D.,  ,#REF!,#REF!,#REF!,7.5,#REF!,#REF!,Thu,Sat
+A00993,North,Ling,Deliver,,24-Jun-21,,1,,,,115.19,Account,  ,#REF!,#REF!,#REF!,115.19,#REF!,#REF!,Thu,Sat
+A00994,North,Ling,Deliver,,24-Jun-21,,1,,,,120,Account,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Sat
+A00995,East,Ling,Deliver,,24-Jun-21,,1,,,,21,Account,  ,#REF!,#REF!,#REF!,21,#REF!,#REF!,Thu,Sat
+A00996,East,Ling,Assess,,24-Jun-21,,1,,,,58.89,C.O.D.,  ,#REF!,#REF!,#REF!,58.89,#REF!,#REF!,Thu,Sat
+A00997,Central,Burton,Deliver,,24-Jun-21,,1,,,,32.67,C.O.D.,  ,#REF!,#REF!,#REF!,32.67,#REF!,#REF!,Thu,Sat
+A00998,Southeast,Burton,Repair,,24-Jun-21,,2,,,,205.28,C.O.D.,  ,#REF!,#REF!,#REF!,205.28,#REF!,#REF!,Thu,Sat
+A00999,Central,Khan,Replace,,24-Jun-21,,2,,,,223.65,Account,  ,#REF!,#REF!,#REF!,223.65,#REF!,#REF!,Thu,Sat
+A01000,Northwest,Khan,Repair,,25-Jun-21,16-Jul-21,1,,,6.25,20,C.O.D.,21,#REF!,#REF!,#REF!,20,#REF!,#REF!,Fri,Fri
+A01001,Northwest,Khan,Repair,,25-Jun-21,,1,,,,415.28,P.O.,  ,#REF!,#REF!,#REF!,415.28,#REF!,#REF!,Fri,Sat
+A01002,Southeast,Khan,Assess,,26-Jun-21,24-Jul-21,2,,,0.25,237.21,C.O.D.,28,#REF!,#REF!,#REF!,237.21,#REF!,#REF!,Sat,Sat
+A01003,North,Ling,Replace,,28-Jun-21,19-Jul-21,2,,,2.5,106.65,Account,21,#REF!,#REF!,#REF!,106.65,#REF!,#REF!,Mon,Mon
+A01004,Central,Cartier,Replace,Yes,28-Jun-21,,2,,,,60,C.O.D.,  ,#REF!,#REF!,#REF!,60,#REF!,#REF!,Mon,Sat
+A01005,North,Ling,Deliver,,29-Jun-21,9-Jul-21,1,,,0.25,20.07,Account,10,#REF!,#REF!,#REF!,20.07,#REF!,#REF!,Tue,Fri
+A01006,South,Burton,Replace,,29-Jun-21,15-Jul-21,2,,,0.5,215.99,Account,16,#REF!,#REF!,#REF!,215.99,#REF!,#REF!,Tue,Thu
+A01007,West,Khan,Deliver,,29-Jun-21,14-Jul-21,1,,,0.25,18,C.O.D.,15,#REF!,#REF!,#REF!,18,#REF!,#REF!,Tue,Wed
+A01008,North,Ling,Deliver,,29-Jun-21,,1,,,,43.01,C.O.D.,  ,#REF!,#REF!,#REF!,43.01,#REF!,#REF!,Tue,Sat
+A01009,North,Ling,Assess,,29-Jun-21,,1,,,,58.5,Account,  ,#REF!,#REF!,#REF!,58.5,#REF!,#REF!,Tue,Sat
+A01010,Southeast,Khan,Replace,,29-Jun-21,,1,,,,146.72,C.O.D.,  ,#REF!,#REF!,#REF!,146.72,#REF!,#REF!,Tue,Sat
+A01011,Central,Cartier,Install,,29-Jun-21,,1,,,,60,Account,  ,#REF!,#REF!,#REF!,60,#REF!,#REF!,Tue,Sat
+A01012,Southeast,Burton,Assess,,29-Jun-21,,2,,,,180,C.O.D.,  ,#REF!,#REF!,#REF!,180,#REF!,#REF!,Tue,Sat
+A01013,East,Ling,Install,,29-Jun-21,,2,,,,165,Account,  ,#REF!,#REF!,#REF!,165,#REF!,#REF!,Tue,Sat
+A01014,South,Burton,Install,,30-Jun-21,12-Jul-21,2,,,1,183.54,Account,12,#REF!,#REF!,#REF!,183.54,#REF!,#REF!,Wed,Mon
+A01015,South,Burton,Repair,,30-Jun-21,13-Jul-21,2,,,1.75,333.9,Account,13,#REF!,#REF!,#REF!,333.9,#REF!,#REF!,Wed,Tue
+A01016,Northwest,Khan,Assess,Yes,30-Jun-21,21-Jul-21,2,,,0.5,23.9,Account,21,#REF!,#REF!,#REF!,23.9,#REF!,#REF!,Wed,Wed
+A01017,Northwest,Khan,Assess,Yes,30-Jun-21,21-Jul-21,2,,,0.5,38.5,Account,21,#REF!,#REF!,#REF!,38.5,#REF!,#REF!,Wed,Wed
+A01018,Central,Khan,Replace,,30-Jun-21,,2,,,,103.18,C.O.D.,  ,#REF!,#REF!,#REF!,103.18,#REF!,#REF!,Wed,Sat
+A01019,Northwest,Khan,Assess,,30-Jun-21,,1,,,,68.5,Account,  ,#REF!,#REF!,#REF!,68.5,#REF!,#REF!,Wed,Sat
+A01020,Southeast,Burton,Repair,,30-Jun-21,,2,,,,309.64,C.O.D.,  ,#REF!,#REF!,#REF!,309.64,#REF!,#REF!,Wed,Sat
+A01021,Northeast,Ling,Install,,30-Jun-21,,2,,,,625.5,Account,  ,#REF!,#REF!,#REF!,625.5,#REF!,#REF!,Wed,Sat
+A01022,North,Ling,Repair,,30-Jun-21,,2,,,,687.92,C.O.D.,  ,#REF!,#REF!,#REF!,687.92,#REF!,#REF!,Wed,Sat
+A01023,West,Khan,Assess,,30-Jun-21,,1,,,,110.69,P.O.,  ,#REF!,#REF!,#REF!,110.69,#REF!,#REF!,Wed,Sat
+A01024,Southwest,Burton,Assess,,30-Jun-21,,2,,,,151.81,C.O.D.,  ,#REF!,#REF!,#REF!,151.81,#REF!,#REF!,Wed,Sat
+A01025,North,Ling,Assess,,1-Jul-21,,2,,,,120,Account,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Thu,Sat
+A01026,West,Khan,Deliver,,2-Jul-21,,1,,,,74.78,Account,  ,#REF!,#REF!,#REF!,74.78,#REF!,#REF!,Fri,Sat
+A01027,Central,Cartier,Install,,2-Jul-21,,2,,,,445.16,C.O.D.,  ,#REF!,#REF!,#REF!,445.16,#REF!,#REF!,Fri,Sat
+A01028,Central,Khan,Assess,,5-Jul-21,20-Jul-21,2,,,0.5,85.32,Account,15,#REF!,#REF!,#REF!,85.32,#REF!,#REF!,Mon,Tue
+A01029,West,Khan,Assess,,5-Jul-21,,2,,,,180.33,Account,  ,#REF!,#REF!,#REF!,180.33,#REF!,#REF!,Mon,Sat
+A01030,East,Ling,Replace,,5-Jul-21,,2,,,,21.33,Account,  ,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Mon,Sat
+A01031,Northwest,Lopez,Install,,5-Jul-21,,2,,,,"1,630.12",C.O.D.,  ,#REF!,#REF!,#REF!,"1,630.12",#REF!,#REF!,Mon,Sat
+A01032,South,Burton,Deliver,,6-Jul-21,13-Jul-21,1,,,0.25,122.36,Account,7,#REF!,#REF!,#REF!,122.36,#REF!,#REF!,Tue,Tue
+A01033,Northwest,Cartier,Assess,,6-Jul-21,22-Jul-21,1,,,0.5,120,Account,16,#REF!,#REF!,#REF!,120,#REF!,#REF!,Tue,Thu
+A01034,North,Ling,Assess,,6-Jul-21,,1,,,,48.79,Account,  ,#REF!,#REF!,#REF!,48.79,#REF!,#REF!,Tue,Sat
+A01035,North,Ling,Replace,,6-Jul-21,,2,,,,94.63,C.O.D.,  ,#REF!,#REF!,#REF!,94.63,#REF!,#REF!,Tue,Sat
+A01036,Southeast,Cartier,Replace,,6-Jul-21,,1,,,,142.38,C.O.D.,  ,#REF!,#REF!,#REF!,142.38,#REF!,#REF!,Tue,Sat
+A01037,North,Ling,Replace,,6-Jul-21,,2,,,,37.29,C.O.D.,  ,#REF!,#REF!,#REF!,37.29,#REF!,#REF!,Tue,Sat
+A01038,Southeast,Burton,Repair,,7-Jul-21,21-Jul-21,2,,,1,46.86,P.O.,14,#REF!,#REF!,#REF!,46.86,#REF!,#REF!,Wed,Wed
+A01039,Northwest,Khan,Assess,Yes,7-Jul-21,21-Jul-21,2,,,0.5,74.53,Account,14,#REF!,#REF!,#REF!,74.53,#REF!,#REF!,Wed,Wed
+A01040,North,Ling,Deliver,,7-Jul-21,,1,,,,140.13,Account,  ,#REF!,#REF!,#REF!,140.13,#REF!,#REF!,Wed,Sat
+A01041,East,Ling,Replace,,7-Jul-21,,2,,,,191.69,Account,  ,#REF!,#REF!,#REF!,191.69,#REF!,#REF!,Wed,Sat
+A01042,Central,Burton,Deliver,,7-Jul-21,,1,,,,64.34,C.O.D.,  ,#REF!,#REF!,#REF!,64.34,#REF!,#REF!,Wed,Sat
+A01043,South,Burton,Replace,,7-Jul-21,,2,,,,335.62,P.O.,  ,#REF!,#REF!,#REF!,335.62,#REF!,#REF!,Wed,Sat
+A01044,Southwest,Burton,Replace,,7-Jul-21,,2,,,,414.86,C.O.D.,  ,#REF!,#REF!,#REF!,414.86,#REF!,#REF!,Wed,Sat
+A01045,Central,Khan,Repair,,8-Jul-21,19-Jul-21,2,,,1,312.19,C.O.D.,11,#REF!,#REF!,#REF!,312.19,#REF!,#REF!,Thu,Mon
+A01046,Central,Cartier,Install,Yes,8-Jul-21,,2,,,,116.1,C.O.D.,  ,#REF!,#REF!,#REF!,116.1,#REF!,#REF!,Thu,Sat
+A01047,East,Ling,Repair,,8-Jul-21,,2,,,,187.55,C.O.D.,  ,#REF!,#REF!,#REF!,187.55,#REF!,#REF!,Thu,Sat
+A01048,Central,Burton,Install,,8-Jul-21,,2,Yes,Yes,,"3,060.34",Warranty,  ,#REF!,#REF!, -   , -   ,#REF!, -   ,Thu,Sat
+A01049,Central,Burton,Assess,,9-Jul-21,,2,,,,250.83,C.O.D.,  ,#REF!,#REF!,#REF!,250.83,#REF!,#REF!,Fri,Sat
+A01050,South,Burton,Assess,,10-Jul-21,,1,,,,320.71,C.O.D.,  ,#REF!,#REF!,#REF!,320.71,#REF!,#REF!,Sat,Sat
+A01051,Central,Burton,Assess,Yes,12-Jul-21,21-Jul-21,1,,,0.75,74.95,C.O.D.,9,#REF!,#REF!,#REF!,74.95,#REF!,#REF!,Mon,Wed
+A01052,Southeast,Burton,Replace,Yes,12-Jul-21,22-Jul-21,2,,,1.75,120,P.O.,10,#REF!,#REF!,#REF!,120,#REF!,#REF!,Mon,Thu
+A01053,North,Ling,Assess,,12-Jul-21,,2,,,,169.02,Account,  ,#REF!,#REF!,#REF!,169.02,#REF!,#REF!,Mon,Sat
+A01054,East,Ling,Deliver,,12-Jul-21,,2,,,,145,C.O.D.,  ,#REF!,#REF!,#REF!,145,#REF!,#REF!,Mon,Sat
+A01055,Central,Cartier,Install,,12-Jul-21,,1,,,,399.84,Account,  ,#REF!,#REF!,#REF!,399.84,#REF!,#REF!,Mon,Sat
+A01056,Northeast,Burton,Repair,,12-Jul-21,,1,,,,464.21,C.O.D.,  ,#REF!,#REF!,#REF!,464.21,#REF!,#REF!,Mon,Sat
+A01057,Southeast,Khan,Assess,Yes,13-Jul-21,20-Jul-21,1,,,0.5,83.46,C.O.D.,7,#REF!,#REF!,#REF!,83.46,#REF!,#REF!,Tue,Tue
+A01058,North,Ling,Assess,,13-Jul-21,,2,,,,58.5,Account,  ,#REF!,#REF!,#REF!,58.5,#REF!,#REF!,Tue,Sat
+A01059,South,Burton,Assess,,13-Jul-21,,1,,,,61.18,Account,  ,#REF!,#REF!,#REF!,61.18,#REF!,#REF!,Tue,Sat
+A01060,South,Burton,Assess,,13-Jul-21,,1,,,,220.73,C.O.D.,  ,#REF!,#REF!,#REF!,220.73,#REF!,#REF!,Tue,Sat
+A01061,Northeast,Ling,Replace,Yes,13-Jul-21,,2,,,,66.86,C.O.D.,  ,#REF!,#REF!,#REF!,66.86,#REF!,#REF!,Tue,Sat
+A01062,Northwest,Cartier,Replace,,14-Jul-21,,1,,,,120,P.O.,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Sat
+A01063,Northwest,Cartier,Replace,,14-Jul-21,,1,,,,120,P.O.,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Sat
+A01064,Northwest,Cartier,Replace,,14-Jul-21,,1,,,,120,P.O.,  ,#REF!,#REF!,#REF!,120,#REF!,#REF!,Wed,Sat
+A01065,Southwest,Burton,Assess,,14-Jul-21,,1,,,,166.62,C.O.D.,  ,#REF!,#REF!,#REF!,166.62,#REF!,#REF!,Wed,Sat
+A01066,Northeast,Ling,Replace,,14-Jul-21,,2,,,,336.26,Account,  ,#REF!,#REF!,#REF!,336.26,#REF!,#REF!,Wed,Sat
+A01067,Northwest,Khan,Repair,,14-Jul-21,,2,,,,"1,000.45",Account,  ,#REF!,#REF!,#REF!,"1,000.45",#REF!,#REF!,Wed,Sat
+A01068,Central,Burton,Install,Yes,15-Jul-21,15-Jul-21,1,,,1,310.93,C.O.D., -   ,#REF!,#REF!,#REF!,310.93,#REF!,#REF!,Thu,Thu
+A01069,Northeast,Ling,Replace,,15-Jul-21,,2,,,,450.2,Account,  ,#REF!,#REF!,#REF!,450.2,#REF!,#REF!,Thu,Sat
+A01070,North,Ling,Replace,,15-Jul-21,,2,,,,186,Account,  ,#REF!,#REF!,#REF!,186,#REF!,#REF!,Thu,Sat
+A01071,Central,Khan,Replace,,16-Jul-21,29-Jul-21,1,,,1.5,"1,111.50",P.O.,13,#REF!,#REF!,#REF!,"1,111.50",#REF!,#REF!,Fri,Thu
+A01072,East,Ling,Repair,,16-Jul-21,,2,,,,170,Account,  ,#REF!,#REF!,#REF!,170,#REF!,#REF!,Fri,Sat
+A01073,North,Ling,Replace,,16-Jul-21,,2,,,,180,Account,  ,#REF!,#REF!,#REF!,180,#REF!,#REF!,Fri,Sat
+A01074,Northwest,Cartier,Assess,,17-Jul-21,26-Jul-21,1,,,0.75,48,C.O.D.,9,#REF!,#REF!,#REF!,48,#REF!,#REF!,Sat,Mon
+A01075,Central,Burton,Replace,,17-Jul-21,,2,Yes,Yes,,"1,019.98",Warranty,  ,#REF!,#REF!, -   , -   ,#REF!, -   ,Sat,Sat
+A01076,Southeast,Burton,Assess,,19-Jul-21,19-Jul-21,1,,,0.5,161.8,C.O.D., -   ,#REF!,#REF!,#REF!,161.8,#REF!,#REF!,Mon,Mon
+A01077,North,Ling,Assess,,19-Jul-21,,2,,,,61.24,C.O.D.,  ,#REF!,#REF!,#REF!,61.24,#REF!,#REF!,Mon,Sat
+A01078,West,Khan,Replace,,19-Jul-21,,2,,,,440.03,C.O.D.,  ,#REF!,#REF!,#REF!,440.03,#REF!,#REF!,Mon,Sat
+A01079,West,Khan,Repair,,19-Jul-21,,2,,,,351,Account,  ,#REF!,#REF!,#REF!,351,#REF!,#REF!,Mon,Sat
+A01080,Central,Khan,Replace,,19-Jul-21,,2,,,,519.01,C.O.D.,  ,#REF!,#REF!,#REF!,519.01,#REF!,#REF!,Mon,Sat
+A01081,Southeast,Burton,Assess,,19-Jul-21,,2,,,,138.08,C.O.D.,  ,#REF!,#REF!,#REF!,138.08,#REF!,#REF!,Mon,Sat
+A01082,North,Ling,Replace,,19-Jul-21,,2,,,,"1,073.46",Account,  ,#REF!,#REF!,#REF!,"1,073.46",#REF!,#REF!,Mon,Sat
+A01083,North,Ling,Replace,,19-Jul-21,,2,,,,48.49,Account,  ,#REF!,#REF!,#REF!,48.49,#REF!,#REF!,Mon,Sat
+A01084,West,Khan,Replace,,19-Jul-21,,1,,,,45.24,Account,  ,#REF!,#REF!,#REF!,45.24,#REF!,#REF!,Mon,Sat
+A01085,North,Ling,Assess,,19-Jul-21,,1,,,,288.42,C.O.D.,  ,#REF!,#REF!,#REF!,288.42,#REF!,#REF!,Mon,Sat
+A01086,Central,Burton,Replace,,20-Jul-21,,1,,,,38.5,Account,  ,#REF!,#REF!,#REF!,38.5,#REF!,#REF!,Tue,Sat
+A01087,South,Burton,Deliver,,20-Jul-21,,1,,,,108,Account,  ,#REF!,#REF!,#REF!,108,#REF!,#REF!,Tue,Sat
+A01088,North,Ling,Assess,,20-Jul-21,,2,,,,142.85,Account,  ,#REF!,#REF!,#REF!,142.85,#REF!,#REF!,Tue,Sat
+A01089,Central,Cartier,Assess,,21-Jul-21,,1,,,,85.94,Account,  ,#REF!,#REF!,#REF!,85.94,#REF!,#REF!,Wed,Sat
+A01090,North,Ling,Replace,,21-Jul-21,,2,,,,21.33,Account,  ,#REF!,#REF!,#REF!,21.33,#REF!,#REF!,Wed,Sat
+A01091,Northwest,Cartier,Replace,,21-Jul-21,,2,,,,602.66,C.O.D.,  ,#REF!,#REF!,#REF!,602.66,#REF!,#REF!,Wed,Sat
+A01092,Northwest,Cartier,Assess,Yes,22-Jul-21,,2,,,,66.89,C.O.D.,  ,#REF!,#REF!,#REF!,66.89,#REF!,#REF!,Thu,Sat
+A01093,Northwest,Khan,Repair,,22-Jul-21,,1,,,,472.55,Account,  ,#REF!,#REF!,#REF!,472.55,#REF!,#REF!,Thu,Sat
+A01094,Southeast,Cartier,Assess,,22-Jul-21,,1,,,,147.7,C.O.D.,  ,#REF!,#REF!,#REF!,147.7,#REF!,#REF!,Thu,Sat
+A01095,Southeast,Burton,Assess,,22-Jul-21,,2,,,,237.21,C.O.D.,  ,#REF!,#REF!,#REF!,237.21,#REF!,#REF!,Thu,Sat
+A01096,Northwest,Cartier,Repair,,22-Jul-21,,1,,,,128.81,C.O.D.,  ,#REF!,#REF!,#REF!,128.81,#REF!,#REF!,Thu,Sat
+A01097,Central,Cartier,Assess,,23-Jul-21,,1,,,,84.89,C.O.D.,  ,#REF!,#REF!,#REF!,84.89,#REF!,#REF!,Fri,Sat
+A01098,East,Ling,Deliver,,24-Jul-21,,1,,,,122.32,Account,  ,#REF!,#REF!,#REF!,122.32,#REF!,#REF!,Sat,Sat
+A01100,East,Ling,Assess,,29-Jul-21,,2,,,,210.45,C.O.D.,  ,#REF!,#REF!,#REF!,210.45,#REF!,#REF!,Thu,Sat
